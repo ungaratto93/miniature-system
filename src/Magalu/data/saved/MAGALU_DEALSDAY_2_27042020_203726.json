@@ -1,0 +1,739 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Multiprocessador Philco Preto All in One 2 Citrus",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/multiprocessador-philco-preto-all-in-one-2-citrus-2-velocidades-pulsar-800w/magazineluiza/023722300/1d264c479b65e2bdb3c3e99e3ba24f4f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "178"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "218.41",
+      "highPrice": "249.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0237223",
+    "description": "Multiprocessador Philco Preto All in One 2 Citrus"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy A30s 64GB Dual Chip Android 9.0 Tela 6.4" 4G Câmera Tripla 25MP+5MP+8MP",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9-0-tela-6-4-4g-camera-tripla-25mp-5mp-8mp/mobcom/16661/5726794ce4863a56cc5d8b101d56e1a0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "10"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1169",
+      "highPrice": "1599",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kb510325a7",
+    "description": "Smartphone Samsung Galaxy A30s 64GB Dual Chip Android 9.0 Tela 6.4" 4G Câmera Tripla 25MP+5MP+8MP"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fritadeira Elétrica Sem Óleo/Air Fryer Philco",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fritadeira-eletrica-sem-oleo-air-fryer-philco-air-fry-saude-preta-32l-com-timer/magazineluiza/215689700/41a12324542ba486013e0b4a44eeac6f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "169"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "332.41",
+      "highPrice": "599.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2156897",
+    "description": "Fritadeira Elétrica Sem Óleo/Air Fryer Philco"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guarda Roupa Casal Prime 1684 com Cômoda Exellence 8000 Demolição  Araplac",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/guarda-roupa-casal-prime-1684-com-comoda-exellence-8000-demolicao-araplac/shoptendtudomoveis/93820izg1/3be164eb78898f8c6fcac85254f99a0a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Araplac"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "41"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "861.8",
+      "highPrice": "861.8",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ebf9h2g8gb",
+    "description": "Guarda Roupa Casal Prime 1684 com Cômoda Exellence 8000 Demolição  Araplac"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Liquidificador Philips Walita Viva Problend RI2134",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/liquidificador-philips-walita-viva-problend-ri2134-preto-com-filtro-5-velocidades-700w/magazineluiza/021755800/a68ac2a4b16e377c1126591c877f308a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philips Walita"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "72"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "166.16",
+      "highPrice": "199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0217559",
+    "description": "Liquidificador Philips Walita Viva Problend RI2134"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Aspirador de Pó Robô 3 em 1 4 Funções 17W Multilaser",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/aspirador-de-po-robo-3-em-1-4-funcoes-17w-multilaser/lojasdular/810/b513f88cf15766ba350da01c42345dd3.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Multilaser"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "17"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "599.99",
+      "highPrice": "599.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ea0650h0ej",
+    "description": "Aspirador de Pó Robô 3 em 1 4 Funções 17W Multilaser"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cozinha Completa Poliman Móveis Paris",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cozinha-completa-poliman-moveis-paris-com-balcao-nicho-para-forno-ou-micro-ondas/magazineluiza/220661000/dd326771724ca6b841b29bf3dc9af0c0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Poliman Móveis"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "179"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "759.99",
+      "highPrice": "1199.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2206610",
+    "description": "Cozinha Completa Poliman Móveis Paris"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/guarda-roupa-8-portas-e-4-gavetas-1684-araplac/multiloja/18037/51191fda28f62e7f034177e243791f94.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Araplac"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "16"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "674.41",
+      "highPrice": "769.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kc8gdakd19",
+    "description": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Kit Ferramentas Bosch 41 Peças V-Line 41",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/kit-ferramentas-bosch-41-pecas-v-line-41-com-maleta/magazineluiza/220955500/8b9ca7f24ec9734e588c24b803eb1b8d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Bosch"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "104"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "74.9",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2209555",
+    "description": "Kit Ferramentas Bosch 41 Peças V-Line 41"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "TV Philco 24 Polegadas Led HD PTV24C10D Preta Bivolt",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/tv-philco-24-polegadas-led-hd-ptv24c10d-preta-bivolt/compreiemeuanymarket/0170130029/88eb948de1facdfdb134f0ad2f52dcbb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "16"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "509.9",
+      "highPrice": "599",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ejg5457hd0",
+    "description": "TV Philco 24 Polegadas Led HD PTV24C10D Preta Bivolt"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Ventilador de Mesa Ultra V-16-4P 30cm",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/ventilador-de-mesa-ultra-v-16-4p-30cm-3-velocidades/magazineluiza/020454900/45d1c04dcc03c4a0023dab3d1baf4f38.JPG"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "ultra"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "24"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "64.9",
+      "highPrice": "69",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0204550",
+    "description": "Ventilador de Mesa Ultra V-16-4P 30cm"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Micro-ondas Midea 20 Litros Espelhado MTFE21  127 Volts",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/micro-ondas-midea-20-litros-espelhado-mtfe21-127-volts/friopecas/123907/b1ee7e8d9d04b79f613f1af5ae89e0d4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Midea"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "327.97",
+      "highPrice": "327.97",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bkg1dj9399",
+    "description": "Micro-ondas Midea 20 Litros Espelhado MTFE21  127 Volts"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy S9+ 128GB Preto 4G",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-s9-128gb-preto-4g-6gb-ram-tela-6-2-cam-dupla-cam-selfie-8mp/magazineluiza/220283100/c6e192d59e92ff3dedbb50cb9e22b894.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2138.07",
+      "highPrice": "4899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2202831",
+    "description": "Smartphone Samsung Galaxy S9+ 128GB Preto 4G"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy A30s 64GB Dual Chip Android 9.0 Tela 6.4" 4G Câmera Tripla 25MP+5MP+8MP",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-a30s-64gb-dual-chip-android-9-0-tela-6-4-4g-camera-tripla-25mp-5mp-8mp/mobcom/16662/42eecbd6dc1ab35169d502acfa2c3170.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "12"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1169",
+      "highPrice": "1599",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bj3h4cj831",
+    "description": "Smartphone Samsung Galaxy A30s 64GB Dual Chip Android 9.0 Tela 6.4" 4G Câmera Tripla 25MP+5MP+8MP"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Colchão Casal Plumatex Mola 25cm de Altura",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/colchao-casal-plumatex-mola-25cm-de-altura-prime/magazineluiza/124383200/5c14c469574635e372b3ebc0bf48bc61.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Plumatex"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "24"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "503.49",
+      "highPrice": "869.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1243832",
+    "description": "Colchão Casal Plumatex Mola 25cm de Altura"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Microondas Electrolux 20 Litros Branco  MTD30  220V",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/microondas-electrolux-20-litros-branco-mtd30-220v/dufrio/100246445/0870360f28a285cf1bc85304308041a5.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Electrolux"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "6"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "349.6",
+      "highPrice": "385.61",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hj79kjbjd8",
+    "description": "Microondas Electrolux 20 Litros Branco  MTD30  220V"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Tablet Philco PTB7QSG 8GB 7” Wi-Fi",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/tablet-philco-ptb7qsg-8gb-7-wi-fi-android-7-1-2-nougat-quad-core/magazineluiza/221386900/db75d5124d8fe48128fd46f31948b24c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "2",
+        "ratingCount": "44"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "313.41",
+      "highPrice": "419",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2213869",
+    "description": "Tablet Philco PTB7QSG 8GB 7” Wi-Fi"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy S10+ 128GB 4G - 8GB RAM Tela 6,4” Câm. Tripla + Câm. Selfie Dupla",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-s10-128gb-4g-8gb-ram-tela-64-cam-tripla-cam-selfie-dupla/lojasamsung/2072/326c4fce8e5b2c5ad7e6c61b178e7514.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "5"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "4679.1",
+      "highPrice": "5199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fg96ha255f",
+    "description": "Smartphone Samsung Galaxy S10+ 128GB 4G - 8GB RAM Tela 6,4” Câm. Tripla + Câm. Selfie Dupla"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Banheira de Bebê Galzerano com Suporte e Trocador",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/banheira-de-bebe-galzerano-com-suporte-e-trocador-standard-girafa-dobravel-20kg/magazineluiza/224493300/01fee81b17e5292658bb90b085139bc5.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Galzerano"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "236.55",
+      "highPrice": "329.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2244935",
+    "description": "Banheira de Bebê Galzerano com Suporte e Trocador"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Suporte para TV Fixo até 70”",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/suporte-para-tv-fixo-ate-70-indusat-su280i/magazineluiza/190719400/69b1f6fa96616fb43fcd2c3911b7cac3.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Indusat"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "ratingCount": "15"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "18.9",
+      "highPrice": "39",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1907194",
+    "description": "Suporte para TV Fixo até 70”"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k12-32gb-platinum-4g-3gb-ram-57-cam-16mp-selfie-8mp-inteligencia-artificial/magazineluiza/155554300/0d7598547ced650b0d921adfbfac5d91.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "16"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "743.07",
+      "highPrice": "1199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555542",
+    "description": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Telefone Sem Fio Motorola MOTO700 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/telefone-sem-fio-motorola-moto700-identificador-de-chamada-preto/magazineluiza/217585700/f45dea8843efdfc3ca91d117ebb70f50.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Motorola"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "131"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "149.9",
+      "highPrice": "149.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2175857",
+    "description": "Telefone Sem Fio Motorola MOTO700 "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Colchão Solteiro Ortobom Espuma D-33",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/colchao-solteiro-ortobom-espuma-d-33-88x188cm-physical-ortofort/magazineluiza/124355500/9fa09fa6d8f9caa908af76e835edfb55.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ortobom"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "34"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "379.99",
+      "highPrice": "629.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1243555",
+    "description": "Colchão Solteiro Ortobom Espuma D-33"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Telefone Com Fio Intelbras Pleno",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/telefone-com-fio-intelbras-pleno-preto/magazineluiza/203214000/c981409aaa73e7cfdebaaa115f4f4f4f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Intelbras"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "71"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "32.9",
+      "highPrice": "49.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2032140",
+    "description": "Telefone Com Fio Intelbras Pleno"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Pneu Aro 13” Goodyear 175/70R13 82T",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/pneu-aro-13-goodyear-175-70r13-82t-direction-touring/magazineluiza/218807000/5f3b4232a0f18d596440bff19ec93123.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Goodyear"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "15"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "179.9",
+      "highPrice": "266",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2291166",
+    "description": "Pneu Aro 13” Goodyear 175/70R13 82T"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Faqueiro Tramontina Laguna Inox ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/faqueiro-tramontina-laguna-inox-100-pecas/magazineluiza/141021200/87a0c56f0370238114a578e6b50c4e53.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Tramontina"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "ratingCount": "98"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "279.9",
+      "highPrice": "599.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1410212",
+    "description": "Faqueiro Tramontina Laguna Inox "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sabão Líquido Ariel Concentrado",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sabao-liquido-ariel-concentrado-2l/magazineluiza/218940400/da2f5a10d2a549b488a424802399eef7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ariel"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "40"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "29.9",
+      "highPrice": "37.53",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2189404",
+    "description": "Sabão Líquido Ariel Concentrado"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Escada de Alumínio 5 Degraus Mor",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/escada-de-aluminio-5-degraus-mor-5103/magazineluiza/146103600/e35913b7ef8972250ba346e87e531f19.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mor"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "115"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "109.16",
+      "highPrice": "144.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1461036",
+    "description": "Escada de Alumínio 5 Degraus Mor"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sofá Retrátil e Reclinável 3 Lugares Suede",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sofa-retratil-e-reclinavel-3-lugares-suede-phormatta-evolution-smp/magazineluiza/121927508/18dc967f86daebe69994620542a42175.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Phormatta"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "154"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "902.49",
+      "highPrice": "1424.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1219275",
+    "description": "Sofá Retrátil e Reclinável 3 Lugares Suede"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Teclado Multimídia Sem Fio USB K400 Plus",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/teclado-multimidia-sem-fio-usb-k400-plus-logitech/magazineluiza/216865300/23bfba11e011c862868759186078730a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Logitech"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.3",
+        "ratingCount": "6"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "120.51",
+      "highPrice": "199.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2168653",
+    "description": "Teclado Multimídia Sem Fio USB K400 Plus"
+  }

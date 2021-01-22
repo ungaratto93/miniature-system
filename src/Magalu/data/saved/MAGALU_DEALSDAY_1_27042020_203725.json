@@ -1,0 +1,714 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sabão em Pó Omo Lavagem Perfeita Concentrado",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sabao-em-po-omo-lavagem-perfeita-concentrado-56kg/magazineluiza/224489500/07081562edc57c9c9046f7b84a8f8af3.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Omo"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "7"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "39.9",
+      "highPrice": "49.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2244895",
+    "description": "Sabão em Pó Omo Lavagem Perfeita Concentrado"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cadeira de Escritório Giratória DIR-002",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cadeira-de-escritorio-giratoria-dir-002-nell/magazineluiza/224326200/627cb4ece1607720a378e839b33840cf.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Nell Móveis"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "2",
+        "ratingCount": "150"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "229.9",
+      "highPrice": "259.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2243262",
+    "description": "Cadeira de Escritório Giratória DIR-002"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV LED 32” LG 32LM620BPSA Wi-Fi",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-led-32-lg-32lm620bpsa-wi-fi-3-hdmi-2-usb/magazineluiza/193429100/ed48438e71e034c46c69c9d87dec8d22.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "lg"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "65"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1006.05",
+      "highPrice": "1299.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934291",
+    "description": "Smart TV LED 32” LG 32LM620BPSA Wi-Fi"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Forno Elétrico Philco",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/forno-eletrico-philco-46l/magazineluiza/223330100/b9bfd01478e9c440ed239c5ecbbe4565.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "58"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "300.51",
+      "highPrice": "536.08",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2233302",
+    "description": "Forno Elétrico Philco"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Lavadora de Roupas Brastemp BWK12AB 12Kg",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/lavadora-de-roupas-brastemp-bwk12ab-12kg-cesto-inox-12-programas-de-lavagem/magazineluiza/010573100/45bc98cdbea8835aa3c89b6c130d46ff.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Brastemp"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "24"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1619",
+      "highPrice": "2199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0105731",
+    "description": "Lavadora de Roupas Brastemp BWK12AB 12Kg"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Panela Elétrica de Arroz Mondial Bianca Rice 5",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/panela-eletrica-de-arroz-mondial-bianca-rice-5-npe-05-5x-400w-5-xicaras/magazineluiza/023346900/606b842961b20a0934ba42fb94011696.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "74.9",
+      "highPrice": "109",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0233470",
+    "description": "Panela Elétrica de Arroz Mondial Bianca Rice 5"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cadeira de Escritório Giratória Diretor Nell",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cadeira-de-escritorio-giratoria-diretor-nell-preta/magazineluiza/223390900/10d20b1db0b2b9a5b16895448adf1741.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Nell Móveis"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "76"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "259.9",
+      "highPrice": "299.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2233909",
+    "description": "Cadeira de Escritório Giratória Diretor Nell"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Escova Secadora Mondial 1200W Cerâmica",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/escova-secadora-mondial-1200w-ceramica-3-velocidades-golden-rose-es-02/magazineluiza/220506000/7ea3188ecfe1a36bad2d81ee2868b4fe.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "52"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "159.9",
+      "highPrice": "199.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1085086",
+    "description": "Escova Secadora Mondial 1200W Cerâmica"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Forno de Embutir a Gás GLP Brastemp",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/forno-de-embutir-a-gas-glp-brastemp-grill-78l-boa84-aerna/magazineluiza/216534900/e5415b80660a0fd8feb149da6fdd3e9e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Brastemp"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "543"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1130.31",
+      "highPrice": "1899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2165349",
+    "description": "Forno de Embutir a Gás GLP Brastemp"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Lavadora de Roupas Electrolux LAC12 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/lavadora-de-roupas-electrolux-lac12-12kg-cesto-inox-12-programas-de-lavagem/magazineluiza/010557200/3ab1542c7651734807a65b422c3bd41f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Electrolux"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "102"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1385.1",
+      "highPrice": "1839.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0105572",
+    "description": "Lavadora de Roupas Electrolux LAC12 "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV 4K LED 60” LG 60UM7270PSA Wi-Fi HDR",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-4k-led-60-lg-60um7270psa-wi-fi-hdr-inteligencia-artificial-controle-smart-magic/magazineluiza/193428300/2047582e3f89e57bc941a1f1dfedb118.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "52"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2944.05",
+      "highPrice": "3599",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934283",
+    "description": "Smart TV 4K LED 60” LG 60UM7270PSA Wi-Fi HDR"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV LED 32” Philco PH32B51DSGWA",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-led-32-philco-ph32b51dsgwa-wi-fi-2-hdmi-2-usb/magazineluiza/193409500/d22a80933f12e4eeb6c8aeb7d403a160.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "10"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "949.05",
+      "highPrice": "1499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934095",
+    "description": "Smart TV LED 32” Philco PH32B51DSGWA"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy J4 Core 16GB Cobre 4G",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-j4-core-16gb-cobre-4g-quad-core-1gb-ram-tela-6-cam-8mp-selfie-5mp/magazineluiza/155545800/ecbcb067cc25aac3c16d39c9b66e25cd.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "39"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "743.07",
+      "highPrice": "899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555458",
+    "description": "Smartphone Samsung Galaxy J4 Core 16GB Cobre 4G"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Livro - Coleção Harry Potter - 7 volumes",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/livro-colecao-harry-potter-7-volumes/magazineluiza/214191500/d418001e403d8ffe120cd00f891df32a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Rocco"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "149.9",
+      "highPrice": "259.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kee4eae7gf",
+    "description": "Livro - Coleção Harry Potter - 7 volumes"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Controle para PS4 sem Fio Dualshock 4 Sony",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/controle-para-ps4-sem-fio-dualshock-4-sony-midnight-blue/magazineluiza/043183500/36de9d5322f527d9d9e60ce6abde0f3a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Playstation 4"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "12"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "220.41",
+      "highPrice": "379.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0431835",
+    "description": "Controle para PS4 sem Fio Dualshock 4 Sony"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jogo de Panelas Tramontina Antiaderente ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jogo-de-panelas-tramontina-antiaderente-de-aluminio-vermelho-12-pecas-turim/magazineluiza/224436700/c81544fb4ca52a87c828eb30d2ca56d0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Tramontina"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "42"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "284.91",
+      "highPrice": "399.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2244367",
+    "description": "Jogo de Panelas Tramontina Antiaderente "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Notebook Acer Aspire 3 A315-53-348W Intel Core i3",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/notebook-acer-aspire-3-a315-53-348w-intel-core-i3-4gb-1tb-156-windows-10/magazineluiza/135269900/85d374c009b1c2c7e40e53591848efed.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Acer"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1994.05",
+      "highPrice": "2399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1352699",
+    "description": "Notebook Acer Aspire 3 A315-53-348W Intel Core i3"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Liquidificador Philco PLQ800 2,7L Preto",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/liquidificador-philco-plq800-27l-preto-com-filtro-4-velocidades-900w/magazineluiza/021728200/cb0ad108eb6a2fccb45f3b702f91171b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "10"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "119.9",
+      "highPrice": "139",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0217282",
+    "description": "Liquidificador Philco PLQ800 2,7L Preto"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Papel Higiênico Folha Tripla Neve Supreme 24 Rolos",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/papel-higienico-folha-tripla-neve-supreme-24-rolos-20m/magazineluiza/221624600/182fc17acc8ceb06072ffd876d6f0dc5.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Neve"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "31"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "34.9",
+      "highPrice": "44.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2216246",
+    "description": "Papel Higiênico Folha Tripla Neve Supreme 24 Rolos"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "FIFA 20 para PS4 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fifa-20-para-ps4-ea/magazineluiza/043183700/aa84bfe4390c813ddc8c63003d2ba48e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "ea"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "157.41",
+      "highPrice": "279.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0431837",
+    "description": "FIFA 20 para PS4 "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Notebook Lenovo Ideapad S145 Intel Core i7",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/notebook-lenovo-ideapad-s145-intel-core-i7-8gb-1tb-156-full-hd-placa-de-video-2gb/magazineluiza/224068400/c7e15aac78eb7c126a819d20ebd74038.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lenovo"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "37"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "3799.05",
+      "highPrice": "4499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2240684",
+    "description": "Notebook Lenovo Ideapad S145 Intel Core i7"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Liquidificador Mondial Turbo L-900 FB Copo 2,7L ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/liquidificador-mondial-turbo-l-900-fb-copo-27l-preto-com-filtro-05-velocidades-900w/magazineluiza/021726000/e018dc51e8dad6b2cdaffcf93f282a5a.JPG"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "9"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "99",
+      "highPrice": "129.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0217261",
+    "description": "Liquidificador Mondial Turbo L-900 FB Copo 2,7L "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Geladeira/Refrigerador Consul Frost Free Duplex",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/geladeira-refrigerador-consul-frost-free-duplex-437l-bem-estar-crm55-abana-branco/magazineluiza/088894200/2a9df757781a73e1441d16236c5b6126.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Consul"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "776"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2399",
+      "highPrice": "2899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0888943",
+    "description": "Geladeira/Refrigerador Consul Frost Free Duplex"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K12+ 32GB Azul 4G Octa-Core",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k12-32gb-azul-4g-octa-core-3gb-ram-tela-57-cam-16mp-cam-selfie-8mp/magazineluiza/155571200/9c8afb69439c1f9e88961fa1e55136c6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "836.07",
+      "highPrice": "899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555712",
+    "description": "Smartphone LG K12+ 32GB Azul 4G Octa-Core"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Travesseiro Nasa Fibrasca Viscoelástico",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/travesseiro-nasa-fibrasca-viscoelastico-nasa-double-comfort/magazineluiza/111907000/f0c67e8ca282c237cbcbd7c6e1a0fbff.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Fibrasca"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3.7",
+        "ratingCount": "123"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "29.99",
+      "highPrice": "49.49",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1119070",
+    "description": "Travesseiro Nasa Fibrasca Viscoelástico"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Aparelho de Jantar Chá 30 Peças Biona",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/aparelho-de-jantar-cha-30-pecas-biona-ceramica-redondo-rosa-donna-ae30-5160/magazineluiza/143283500/f278be8fcde867c551f9e59b97e14ecf.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Biona"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "984"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "265.91",
+      "highPrice": "299.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1432835",
+    "description": "Aparelho de Jantar Chá 30 Peças Biona"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Pipoqueira Elétrica Lenoxx Pop Red",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/pipoqueira-eletrica-lenoxx-pop-red-vermelha-3-xicaras-de-pipoca/magazineluiza/221533500/96efe4038581ce53eacebb79348a105e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lenoxx"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "32"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "74.9",
+      "highPrice": "99.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2215336",
+    "description": "Pipoqueira Elétrica Lenoxx Pop Red"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV LED 39” Philco PTV39G50S Wi-Fi HDR",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-led-39-philco-ptv39g50s-wi-fi-hdr-2-hdmi-1-usb/magazineluiza/193434200/a7cbcf74aed1e7a043538eca89078bb7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1139.05",
+      "highPrice": "1299",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934342",
+    "description": "Smart TV LED 39” Philco PTV39G50S Wi-Fi HDR"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Computador All in One LG 22V280-L.BY31P1 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/computador-all-in-one-lg-22v280-l-by31p1-intel-quad-core-4gb-500gb-215-full-hd-windows-10/magazineluiza/224724700/ffd9c4fb1bc9a858a11487110fb2ccec.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "8"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1804.05",
+      "highPrice": "2499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2247247",
+    "description": "Computador All in One LG 22V280-L.BY31P1 "
+  }

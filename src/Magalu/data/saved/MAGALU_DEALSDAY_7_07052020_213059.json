@@ -1,0 +1,677 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Griffe Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/imagem-indisponivel/appmockups/000000000/1bd79dc863d30982501d43e14bccc8f0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "71.24",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ae34je93jk",
+    "description": "Sandália Anabela Griffe Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Chinelo Infantil Grendene Kids Polly Feminino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/chinelo-infantil-grendene-kids-polly-feminino/zattini/cdt-0237-791-29/919d733ce56fc9bf580e7669c50d9727.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Grendene"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "24.24",
+      "highPrice": "24.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dg0ac59eg8",
+    "description": "Chinelo Infantil Grendene Kids Polly Feminino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Via Uno Salto Médio Verniz Feminino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-via-uno-salto-medio-verniz-feminino/zattini/cob-0800-006-38/0ab6064ab2160c926e5b4690ece3eba7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jdaha65265",
+    "description": "Scarpin Via Uno Salto Médio Verniz Feminino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Calça Jeans Lança Perfume Skinny Super High Ankle Puídos Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/calca-jeans-lanca-perfume-skinny-super-high-ankle-puidos-feminina/zattini/e91-7027-342-40/165e716598aeb7c014ebb02254a958af.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lança Perfume"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "94.99",
+      "highPrice": "329.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fbh13cdd8k",
+    "description": "Calça Jeans Lança Perfume Skinny Super High Ankle Puídos Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Moleca Lacinho Metalizada Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/imagem-indisponivel/appmockups/000000000/1bd79dc863d30982501d43e14bccc8f0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Moleca"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "33.24",
+      "highPrice": "39.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kfjj42de91",
+    "description": "Sapatilha Moleca Lacinho Metalizada Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Tênis Infantil No Stress Led Velcro",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/tenis-infantil-no-stress-led-velcro/zattini/q55-0213-172-33/fd7cd6e05f5269dc309aae9ee3991e22.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "No Stress"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "47.49",
+      "highPrice": "79.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ca0d59336b",
+    "description": "Tênis Infantil No Stress Led Velcro"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Jeans Griffe Salto Grosso Nó Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-jeans-griffe-salto-grosso-no-feminina/zattini/bav-0221-325-35/416bbb5ac91649706b2441d2b8d7b8a9.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jc28197ec7",
+    "description": "Sandália Jeans Griffe Salto Grosso Nó Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Griffe Detalhe Corda Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-griffe-detalhe-corda-feminina/zattini/bav-0229-006-36/74093cf4567c140497001db16abe5200.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ca36936a04",
+    "description": "Sandália Anabela Griffe Detalhe Corda Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Jelly Bean Recorte Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-jelly-bean-recorte-feminina/zattini/nlg-0023-325-37/29c8cd9ebeb3f3eabe251cc70fbbdbc6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Jelly Bean"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "38.79",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kje70f1c7g",
+    "description": "Sapatilha Jelly Bean Recorte Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Jelly Bean Bico Fino Enfeite Metal Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-jelly-bean-bico-fino-enfeite-metal-feminina/zattini/nlg-0015-006-35/bf8488f22ea4a204a714eaf5dc12c0d6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Jelly Bean"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "42.74",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "aef2ea3eb0",
+    "description": "Sapatilha Jelly Bean Bico Fino Enfeite Metal Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Óculos de Sol Colcci C0106 Feminino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/oculos-de-sol-colcci-c0106-feminino/zattini/e33-8932-138-01/c4687856b2aee63fa972b554b1eb5876.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Colcci"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "114.94",
+      "highPrice": "199.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kda3b85dkd",
+    "description": "Óculos de Sol Colcci C0106 Feminino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Griffe Nó Acabamento Em Corda Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-griffe-no-acabamento-em-corda-feminina/zattini/bav-0283-219-35/1c15522e689b0c19bb9e15211459228f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "77.59",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hh8f4003kf",
+    "description": "Sandália Anabela Griffe Nó Acabamento Em Corda Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatênis Couro West Coast Udine Masculino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatenis-couro-west-coast-udine-masculino/zattini/d95-1655-003-42/763a695465e93b638f4522a039462c43.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "West Coast"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "76.94",
+      "highPrice": "199.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dh6089831h",
+    "description": "Sapatênis Couro West Coast Udine Masculino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bota Coturno Vizzano Tratorada Salto Alto Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bota-coturno-vizzano-tratorada-salto-alto-feminina/zattini/e11-7021-006-36/fb2d075e01ebefc0ef01ff1154c68523.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Vizzano"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "132.99",
+      "highPrice": "199.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jgjddbdjah",
+    "description": "Bota Coturno Vizzano Tratorada Salto Alto Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Jelly Bean Animal Print Onça Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-jelly-bean-animal-print-onca-feminina/zattini/nlg-0016-209-36/f1ae0f79e1db6fa558f32a7e441d4d52.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Jelly Bean"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ge6j63ckc9",
+    "description": "Sapatilha Jelly Bean Animal Print Onça Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bolsa Petite Jolie Easy Express Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bolsa-petite-jolie-easy-express-feminina/zattini/e41-1762-203-01/4b286a226af3e9ec7054c26b1974dadf.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Petite Jolie"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ejbh3ec901",
+    "description": "Bolsa Petite Jolie Easy Express Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Studio Ana Paula Espadrille Amarração Onça Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-studio-ana-paula-espadrille-amarracao-onca-feminina/zattini/mik-0038-006-36/93b623535d0e81b6c5945f3d21cfc5c8.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "52.24",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jdd8407akj",
+    "description": "Sandália Anabela Studio Ana Paula Espadrille Amarração Onça Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Griffe Espadrille Nó Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-griffe-espadrille-no-feminina/zattini/bav-0208-000-36/30d3a58d1868757842a8078c636c30c9.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bh0hkkafc7",
+    "description": "Sandália Griffe Espadrille Nó Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jaqueta Infantil Kyly Tedy Com Capuz",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jaqueta-infantil-kyly-tedy-com-capuz/zattini/f29-0477-060-06/d633c1ab1891f92c82f16bc8f971677e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Kyly"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "77.59",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "gca16cgh9f",
+    "description": "Jaqueta Infantil Kyly Tedy Com Capuz"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Vizzano Salto Médio Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-vizzano-salto-medio-amarracao-feminina/zattini/e11-5933-203-36/93dd84789083612001ec66c92e0fa35d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Vizzano"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "67.89",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ek1ga7k89c",
+    "description": "Sandália Vizzano Salto Médio Amarração Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Jelly Bean Laço Biqueira Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-jelly-bean-laco-biqueira-feminina/zattini/nlg-0017-004-36/169ece94d23c79004d90f482bacc7e4f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Jelly Bean"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dbaadka2ae",
+    "description": "Sapatilha Jelly Bean Laço Biqueira Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Moleca Sleeper Croco Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-moleca-sleeper-croco-feminina/zattini/d98-4831-203-37/60f920205be6bb372acb39c1f89f3e09.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Moleca"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "cd8429d03f",
+    "description": "Sapatilha Moleca Sleeper Croco Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Moleca Sleeper Croco Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-moleca-sleeper-croco-feminina/zattini/d98-4831-006-37/294d839f1c628f670e3ff59ad07b3feb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Moleca"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "cd8429d03f",
+    "description": "Sapatilha Moleca Sleeper Croco Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Jelly Bean Lacinho Verniz Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-jelly-bean-lacinho-verniz-feminina/zattini/nlg-0006-016-36/ed6bd9c8671582fcfd4088488a43c8b6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Jelly Bean"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hd63cdbcch",
+    "description": "Sapatilha Jelly Bean Lacinho Verniz Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jaqueta Infantil Kyly Puffer Capuz Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jaqueta-infantil-kyly-puffer-capuz-feminina/zattini/f29-0468-018-94/7c553a5c20d2b4bf1f1e0f4bab8e0122.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Kyly"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "113.99",
+      "highPrice": "129.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ba595a28h3",
+    "description": "Jaqueta Infantil Kyly Puffer Capuz Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Studio Ana Paula Espadrille Nó Fechada Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-studio-ana-paula-espadrille-no-fechada-feminina/zattini/mik-0040-219-36/d7b87fbe18eb76334cd092152db72236.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "47.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dah15c2a1c",
+    "description": "Sandália Anabela Studio Ana Paula Espadrille Nó Fechada Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Look Fashion Flatform Nó Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-look-fashion-flatform-no-feminina/zattini/dyh-0034-060-35/acbfccccafeaa65b21240b012b9a9cbf.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Look Fashion"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "56.99",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hb6f038d4h",
+    "description": "Sandália Look Fashion Flatform Nó Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Jelly Bean Verniz Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/imagem-indisponivel/appmockups/000000000/1bd79dc863d30982501d43e14bccc8f0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Jelly Bean"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "33.24",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ggfbk80j8f",
+    "description": "Sapatilha Jelly Bean Verniz Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Jelly Bean Verniz Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-jelly-bean-verniz-feminina/zattini/nlg-0018-006-36/e2a91563c5ca42f3265b2671f8ce33a2.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Jelly Bean"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "38.79",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ggfbk80j8f",
+    "description": "Sapatilha Jelly Bean Verniz Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Blusas anany manga curta estampada-an-n100138",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/blusas-anany-manga-curta-estampada-an-n100138/zattini/hbp-0031-024-03/2d2d6c44c777af8926b09772334b4a58.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "CM"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "22.79",
+      "highPrice": "79.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "cg17k6ecac",
+    "description": "Blusas anany manga curta estampada-an-n100138"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Griffe Salto Baixo Boneca",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-griffe-salto-baixo-boneca/zattini/bav-0109-006-35/ea4c85e62fa3d163fc1d558865525679.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "71.24",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "haf70ak5gh",
+    "description": "Scarpin Griffe Salto Baixo Boneca"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Griffe Meia Pata Básica Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-griffe-meia-pata-basica-feminina/zattini/bav-0040-004-38/699bb74083b588a2515e243754de70b9.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "53.34",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hbec2ejfkc",
+    "description": "Sandália Griffe Meia Pata Básica Feminina"
+  }

@@ -1,0 +1,743 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jogo de Toalhas Felpuda Buddemeyer Novitá",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jogo-de-toalhas-felpuda-buddemeyer-novita-100-algodao-azul-5-pecas/magazineluiza/225259800/994cbaaca60baf4d0f8e11d3801c0c82.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Buddemeyer"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "129.9",
+      "highPrice": "149.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2252602",
+    "description": "Jogo de Toalhas Felpuda Buddemeyer Novitá"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bola Society Slick II Topper Exclusiva",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bola-society-slick-ii-topper-exclusiva/netshoes/d30-1270-120-01/b035edbc705d84b8b37eb06f1144b218.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Topper"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "39.99",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "chcaak0jfa",
+    "description": "Bola Society Slick II Topper Exclusiva"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fralda Pampers Confort Sec Tam. G ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fralda-pampers-confort-sec-tam-g-9-a-125kg-60-unidades/magazineluiza/220258800/159db3cc7f47a0dae42751de00ea2663.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Pampers"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "52"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "60.9",
+      "highPrice": "79.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2202588",
+    "description": "Fralda Pampers Confort Sec Tam. G "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cama Box Solteiro Conjugada Unyco D28 Preta",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cama-box-solteiro-conjugada-unyco-d28-preta-mobly/mobly/mo173be27ltkmob-548482/b279c0d1a4c514a9985ef17359aed5ae.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mobly"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "28"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "299.99",
+      "highPrice": "539.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fgd849gc42",
+    "description": "Cama Box Solteiro Conjugada Unyco D28 Preta"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Carrinho de Bebê Multikids Flip",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/carrinho-de-bebe-multikids-flip-0-a-15kg/magazineluiza/219069600/f4f39c1065cbe0fc64e0ee6f3415d1de.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Multikids"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "17"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "314.1",
+      "highPrice": "474.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2190695",
+    "description": "Carrinho de Bebê Multikids Flip"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Lavadora De Alta Pressão K2 Karcher Black 110v 1600lbs Edição Limitada",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/lavadora-de-alta-pressao-k2-karcher-black-110v-1600lbs-edicao-limitada/ddmaquinas/63791/6a444b21c87f64ec8100f0b223c7392a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Karcher"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "9"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "344.9",
+      "highPrice": "399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ddcfk8223f",
+    "description": "Lavadora De Alta Pressão K2 Karcher Black 110v 1600lbs Edição Limitada"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Soundbar Mondial 60W",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/soundbar-mondial-60w-2-0-canais-sb-01/magazineluiza/215628900/1605e53c36286960d56b83693f79048b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3.7",
+        "ratingCount": "9"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "239.9",
+      "highPrice": "399.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2156289",
+    "description": "Soundbar Mondial 60W"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Base para Cama Box Casal Premium com Baú (45x138x188) Suede Pena Bege",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/base-para-cama-box-casal-premium-com-bau-45x138x188-suede-pena-bege-mobly/mobly/em279be54jkvmob-512063/8b664340a596ae5ef557042057865b84.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mobly"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "79"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "489.99",
+      "highPrice": "999.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "eje6jec87e",
+    "description": "Base para Cama Box Casal Premium com Baú (45x138x188) Suede Pena Bege"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Pneu Aro 13” Euzkadi 175/70R13 82T",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/pneu-aro-13-euzkadi-175-70r13-82t-eurodrive-2-by-continental/magazineluiza/221464100/614458c1625fa1465eb81038c9ea0df6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Continental"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "3"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "199.9",
+      "highPrice": "211.15",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2214641",
+    "description": "Pneu Aro 13” Euzkadi 175/70R13 82T"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Penteadeira Camarim com Espelho 3 Gavetas 2 Portas Carisma Demóbile Branco",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/penteadeira-camarim-com-espelho-3-gavetas-2-portas-carisma-demobile-branco/madeiramadeira-openapi/522507/ae7d6cfea062e06535c1cd3d272f675b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Demóbile"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "58"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "359.36",
+      "highPrice": "475.1",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kh40j17k3f",
+    "description": "Penteadeira Camarim com Espelho 3 Gavetas 2 Portas Carisma Demóbile Branco"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sabão Líquido Ariel Concentrado Com Toque De Downy",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sabao-liquido-ariel-concentrado-com-toque-de-downy-50-lavagens-2l/magazineluiza/218940300/79856285149b9a2c0c28187cf9b3dd4c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ariel"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "45"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "29.9",
+      "highPrice": "34.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2189403",
+    "description": "Sabão Líquido Ariel Concentrado Com Toque De Downy"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Galaxy Tab A (8") 4G - Preto",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/galaxy-tab-a-8-4g-preto-samsung/lojasamsung/2307/1db5b0c4f9a8ef147d861e2b690094f7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "2",
+        "ratingCount": "5"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1079.1",
+      "highPrice": "1199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ad4ekgf8dk",
+    "description": "Galaxy Tab A (8") 4G - Preto"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Furadeira e Parafusadeira BlackDecker 12V",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/furadeira-e-parafusadeira-blackdecker-12v-velocidade-variavel-e-reversivel-3-8-ld12sc/magazineluiza/220469600/20ba4b20d847a073a34ba6c8d2adcec8.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "BLACK+DECKER"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "63"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "246.91",
+      "highPrice": "299.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2204696",
+    "description": "Furadeira e Parafusadeira BlackDecker 12V"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Micro-ondas Brastemp 32L cor Inox Espelhado com Painel Integrado BMS45CRANA",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/micro-ondas-brastemp-32l-cor-inox-espelhado-com-painel-integrado-bms45crana/lojabelgrado/ce10521/d0bba17d2f86b51bfe80a73d4aea523f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Brastemp"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "569",
+      "highPrice": "569",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bk909j52h1",
+    "description": "Micro-ondas Brastemp 32L cor Inox Espelhado com Painel Integrado BMS45CRANA"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jogo de Toalhas Felpuda Buddemeyer Novitá",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jogo-de-toalhas-felpuda-buddemeyer-novita-100-algodao-rosa-5-pecas/magazineluiza/225260000/05313f217036d4a62422cad9c6b5f18b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Buddemeyer"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "129.9",
+      "highPrice": "149.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2252602",
+    "description": "Jogo de Toalhas Felpuda Buddemeyer Novitá"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Apple Watch Series 3 (GPS) - 38mm - Caixa Cinza-espacial com Pulseira Esportiva",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/apple-watch-series-3-gps-38mm-caixa-cinza-espacial-com-pulseira-esportiva/mobcom/15878/b626ee08dc420d7abb50a853e9226171.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "APPLE"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "16"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1679",
+      "highPrice": "2999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jefba9j907",
+    "description": "Apple Watch Series 3 (GPS) - 38mm - Caixa Cinza-espacial com Pulseira Esportiva"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k12-32gb-platinum-4g-3gb-ram-57-cam-16mp-selfie-8mp-inteligencia-artificial/magazineluiza/155554300/0d7598547ced650b0d921adfbfac5d91.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "23"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "688.11",
+      "highPrice": "1199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555543",
+    "description": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone TCL L9 16GB 4G Quad Core Tela 5,3 Câm 8MP + Selfie 13MP Dual Chip Preto",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-tcl-l9-16gb-4g-quad-core-tela-53-cam-8mp-selfie-13mp-dual-chip-preto/semprevoce/3643/5c6804db9f854e23794e523980bae7d3.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "TCL"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "44"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "429",
+      "highPrice": "429",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jecge0g2fc",
+    "description": "Smartphone TCL L9 16GB 4G Quad Core Tela 5,3 Câm 8MP + Selfie 13MP Dual Chip Preto"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Motorola One Action 128GB Branco 4G",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-motorola-one-action-128gb-branco-4g-4gb-ram-634-cam-tripla-cam-selfie-12mp/magazineluiza/155558300/36bb54291aa78a2b0c9f54613fbe76b4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Motorola"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "25"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1487.07",
+      "highPrice": "1799",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555582",
+    "description": "Smartphone Motorola One Action 128GB Branco 4G"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Painel para TV até 60 Polegadas 2 Portas 2m São Luis Linea Brasil",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/painel-para-tv-ate-60-polegadas-2-portas-2m-sao-luis-linea-brasil/multiloja/15543/26e583c7d0be381c02d2661c0810d33c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Linea Brasil"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "15"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "659",
+      "highPrice": "689",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ga5b59hk11",
+    "description": "Painel para TV até 60 Polegadas 2 Portas 2m São Luis Linea Brasil"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Relógio Masculino Casio Analógico Esportivo",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/relogio-masculino-casio-analogico-esportivo-mtp-v002d-1budf-prata/magazineluiza/220244600/59c5e0bbf8374c6bc80e781dfeb0fce6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Casio"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "52"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "92.9",
+      "highPrice": "159.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2202446",
+    "description": "Relógio Masculino Casio Analógico Esportivo"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Multiprocessador All In One Maximus Philco Vermelho Liquidificador Espremedor e Batedeira - 110v",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/multiprocessador-all-in-one-maximus-philco-vermelho-liquidificador-espremedor-e-batedeira-110v/techshop/mutphc00041/99d940c6afa77aad03d733d213352eb2.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "3"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "289.9",
+      "highPrice": "319.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jae2dheeag",
+    "description": "Multiprocessador All In One Maximus Philco Vermelho Liquidificador Espremedor e Batedeira - 110v"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Churrasqueira à Carvão de Parede Metávila 650C",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/churrasqueira-a-carvao-de-parede-metavila-650c-para-6-espetos/magazineluiza/216864400/b727d2e8f7e2dae90bda90974d63c0eb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Metávila"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "209"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "499.9",
+      "highPrice": "614.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2168644",
+    "description": "Churrasqueira à Carvão de Parede Metávila 650C"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Galaxy Watch Active - Smartwatch -",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/galaxy-watch-active-smartwatch-samsung/lojasamsung/2179/4752302418dbe9627bc4c0efbac59607.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1349.1",
+      "highPrice": "1499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ae0fe8hf98",
+    "description": "Galaxy Watch Active - Smartwatch -"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy Note 10 256GB Dual Chip Android 9.0 6.3" Octa-Core 4G Câmera 12 MP + 16 MP + 12 MP",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-note-10-256gb-dual-chip-android-9-0-6-3-octa-core-4g-camera-12-mp-16-mp-12-mp/lojasamsung/2299/b734aed472026f6bda35dc3a12d26f8c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "8"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "4769.1",
+      "highPrice": "5299",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "cf29051ajk",
+    "description": "Smartphone Samsung Galaxy Note 10 256GB Dual Chip Android 9.0 6.3" Octa-Core 4G Câmera 12 MP + 16 MP + 12 MP"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/guarda-roupa-8-portas-e-4-gavetas-1684-araplac/multiloja/4918/20b50c684d5ceca91d56a729459c8cbf.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Araplac"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "31"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "709.9",
+      "highPrice": "769.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "chhbeaha2k",
+    "description": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Torneira Cozinha Gourmet Monocomando 50 Cm Spray Extensor",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/torneira-cozinha-gourmet-monocomando-50-cm-spray-extensor-genoese/ultravendas/7700668297/5f7183f08c78134f7e32c3f900b4df1c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Genoese"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "337.98",
+      "highPrice": "337.98",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ck3f6d9669",
+    "description": "Torneira Cozinha Gourmet Monocomando 50 Cm Spray Extensor"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Micro-ondas Midea 20 Litros Espelhado MTFE22 220 Volts",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/micro-ondas-midea-20-litros-espelhado-mtfe22-220-volts/friopecas/123908/b1ee7e8d9d04b79f613f1af5ae89e0d4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Midea"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "316",
+      "highPrice": "348",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "gjgdj7756h",
+    "description": "Micro-ondas Midea 20 Litros Espelhado MTFE22 220 Volts"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy A20s, Octa-Core, Tela de 6,5”, 32GB, Câmera Tripla 13MP+5MP+8MP",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-a20s-octa-core-tela-de-65-32gb-camera-tripla-13mp-5mp-8mp/lojasamsung/2345/0088808a69fb0201de63743e5daafbfb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "4"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1259.1",
+      "highPrice": "1399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "cj7gak2dh0",
+    "description": "Smartphone Samsung Galaxy A20s, Octa-Core, Tela de 6,5”, 32GB, Câmera Tripla 13MP+5MP+8MP"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Perfume Masculino One Million Paco Rabanne Eau de Toilette 200ml",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/perfume-masculino-one-million-paco-rabanne-eau-de-toilette-200ml/zattini/m42-0192-460-01/22f107a220658245f4a7427ec75bf903.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Paco Rabanne"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "6"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "398.99",
+      "highPrice": "579",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ach99bbc8g",
+    "description": "Perfume Masculino One Million Paco Rabanne Eau de Toilette 200ml"
+  }
