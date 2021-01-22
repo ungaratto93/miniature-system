@@ -1,0 +1,698 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Pneu Aro 13” Euzkadi 175/70R13 82T",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/pneu-aro-13-euzkadi-175-70r13-82t-eurodrive-2-by-continental/magazineluiza/221464100/614458c1625fa1465eb81038c9ea0df6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Continental"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "3"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "199.9",
+      "highPrice": "211.15",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2214641",
+    "description": "Pneu Aro 13” Euzkadi 175/70R13 82T"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cadeira Escritório Presidente Executiva Giratória Preta - Fortt C300",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cadeira-escritorio-presidente-executiva-giratoria-preta-fortt-c300/comprebel2/26167/132f831c7a76b4d8b28a8f1f9a2d2ab3.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Fortt"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "489.9",
+      "highPrice": "599.88",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "egkc31g541",
+    "description": "Cadeira Escritório Presidente Executiva Giratória Preta - Fortt C300"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jogo de Toalhas Felpuda Buddemeyer Novitá",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jogo-de-toalhas-felpuda-buddemeyer-novita-100-algodao-branco-5-pecas/magazineluiza/225259700/14612f89417cddf05d37774092f63fef.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Buddemeyer"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "119.9",
+      "highPrice": "149.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2252602",
+    "description": "Jogo de Toalhas Felpuda Buddemeyer Novitá"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Galaxy Tab A (8") 4G - Preto",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/galaxy-tab-a-8-4g-preto-samsung/lojasamsung/2307/1db5b0c4f9a8ef147d861e2b690094f7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "4"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1079.1",
+      "highPrice": "1199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ad4ekgf8dk",
+    "description": "Galaxy Tab A (8") 4G - Preto"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jogo de Toalhas Felpuda Buddemeyer Novitá",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jogo-de-toalhas-felpuda-buddemeyer-novita-100-algodao-azul-5-pecas/magazineluiza/225259800/994cbaaca60baf4d0f8e11d3801c0c82.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Buddemeyer"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "119.9",
+      "highPrice": "149.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2252602",
+    "description": "Jogo de Toalhas Felpuda Buddemeyer Novitá"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Hd Externo Seagate Expansion 1tb Usb 3.0",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/hd-externo-seagate-expansion-1tb-usb-3-0/rfx2/15/457a9270bdf8dc8e0f86bc92247d6300.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Seagate"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "3"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "399.98",
+      "highPrice": "399.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bebe06c0fe",
+    "description": "Hd Externo Seagate Expansion 1tb Usb 3.0"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k12-32gb-platinum-4g-3gb-ram-57-cam-16mp-selfie-8mp-inteligencia-artificial/magazineluiza/155554300/0d7598547ced650b0d921adfbfac5d91.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "18"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "743.07",
+      "highPrice": "1199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555543",
+    "description": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Webcam Logitech C920 Pro Full Hd 1080p 15Mp - Lacrado",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/webcam-logitech-c920-pro-full-hd-1080p-15mp-lacrado/rfx2/hdproc920/ff7a21cae6b28d7b4d30497395467516.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Logitech"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "699.98",
+      "highPrice": "999.98",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fa8f1ejda7",
+    "description": "Webcam Logitech C920 Pro Full Hd 1080p 15Mp - Lacrado"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "DVD Automotivo Positron SP6330BT LCD 7” ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/dvd-automotivo-positron-sp6330bt-lcd-7-retratil-touch-bluetooth-4x20-watts-rms/magazineluiza/031492600/b4c7d2f83bb2a837d814561f362465d4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Pósitron"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "10"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "550.91",
+      "highPrice": "579.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0314926",
+    "description": "DVD Automotivo Positron SP6330BT LCD 7” "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sérum Anti-Idade La Roche-Posay - Salicyli C10",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/serum-anti-idade-la-roche-posay-salicyli-c10/epocacosmeticos-integra/44511/3723e3a53173f91b74efcb2ef87e594e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "La Roche-Posay"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "3"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "199.9",
+      "highPrice": "239.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jga78h580h",
+    "description": "Sérum Anti-Idade La Roche-Posay - Salicyli C10"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Relógio Masculino Casio Analógico Esportivo",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/relogio-masculino-casio-analogico-esportivo-mtp-v002d-1budf-prata/magazineluiza/220244600/59c5e0bbf8374c6bc80e781dfeb0fce6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Casio"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "49"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "92.9",
+      "highPrice": "159.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2202446",
+    "description": "Relógio Masculino Casio Analógico Esportivo"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cooktop De Indução Philco Smart Chef PCT01",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cooktop-de-inducao-philco-smart-chef-pct01/britania/2736/a2277ac3c1b746a77db0ccb0ad9f60f8.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "21"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "279.9",
+      "highPrice": "349.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ca1gj39efd",
+    "description": "Cooktop De Indução Philco Smart Chef PCT01"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Churrasqueira à Carvão de Parede Metávila 650C",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/churrasqueira-a-carvao-de-parede-metavila-650c-para-6-espetos/magazineluiza/216864400/b727d2e8f7e2dae90bda90974d63c0eb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Metávila"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "209"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "499.9",
+      "highPrice": "614.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2168644",
+    "description": "Churrasqueira à Carvão de Parede Metávila 650C"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Apple Watch Series 3 (GPS) - 38mm - Caixa Cinza-espacial com Pulseira Esportiva",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/apple-watch-series-3-gps-38mm-caixa-cinza-espacial-com-pulseira-esportiva/mobcom/15878/b626ee08dc420d7abb50a853e9226171.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "APPLE"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "12"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1759",
+      "highPrice": "2999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jefba9j907",
+    "description": "Apple Watch Series 3 (GPS) - 38mm - Caixa Cinza-espacial com Pulseira Esportiva"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Moto Elétrica Infantil Ban 2 Marchas 6V",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/moto-eletrica-infantil-ban-2-marchas-6v-bandeirante/magazineluiza/216110800/1c7c2c9842b86e26e2792b58ce7bb9ca.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Bandeirante"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "200"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "449.1",
+      "highPrice": "549",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2161108",
+    "description": "Moto Elétrica Infantil Ban 2 Marchas 6V"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Painel para TV até 60 Polegadas 2 Portas 2m São Luis Linea Brasil",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/painel-para-tv-ate-60-polegadas-2-portas-2m-sao-luis-linea-brasil/multiloja/15543/26e583c7d0be381c02d2661c0810d33c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Linea Brasil"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "7"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "550.91",
+      "highPrice": "609.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ga5b59hk11",
+    "description": "Painel para TV até 60 Polegadas 2 Portas 2m São Luis Linea Brasil"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Relógio Unissex Casio Digital Resistente à Água",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/relogio-unissex-casio-digital-resistente-a-agua-a158wa-1df-prata/magazineluiza/214867900/2bff7c5a302272f3169ad3de7d6bb704.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Casio"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "47"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "154.9",
+      "highPrice": "169.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2148679",
+    "description": "Relógio Unissex Casio Digital Resistente à Água"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Galaxy Watch Active - Smartwatch -",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/galaxy-watch-active-smartwatch-samsung/lojasamsung/2179/4752302418dbe9627bc4c0efbac59607.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1349.1",
+      "highPrice": "1499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "gg0je8adge",
+    "description": "Galaxy Watch Active - Smartwatch -"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Caixa de Som Bluetooth Amvox",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/caixa-de-som-bluetooth-amvox-aca-750-turbo-750w-ativa-usb-subwoofer/magazineluiza/221218000/a72ab90518d3e0737cf532a5e2b6bcb6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Amvox"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "6"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "949.91",
+      "highPrice": "1199.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2212180",
+    "description": "Caixa de Som Bluetooth Amvox"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Micro-ondas Midea 20 Litros Espelhado MTFE22 220 Volts",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/micro-ondas-midea-20-litros-espelhado-mtfe22-220-volts/friopecas/123908/b1ee7e8d9d04b79f613f1af5ae89e0d4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Midea"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "348",
+      "highPrice": "348",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "gjgdj7756h",
+    "description": "Micro-ondas Midea 20 Litros Espelhado MTFE22 220 Volts"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cervejeira Consul Smartbeer Vertical 82L",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cervejeira-consul-smartbeer-vertical-82l-frost-free-1-porta/magazineluiza/221227600/b62395ab89b8b539eebef659e1e5aaf3.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Consul"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "8"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2510.91",
+      "highPrice": "4999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2212277",
+    "description": "Cervejeira Consul Smartbeer Vertical 82L"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/guarda-roupa-8-portas-e-4-gavetas-1684-araplac/multiloja/4918/20b50c684d5ceca91d56a729459c8cbf.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Araplac"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "16"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "674.41",
+      "highPrice": "769.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kc8gdakd19",
+    "description": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Banheira de Bebê Galzerano com Suporte e Trocador",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/banheira-de-bebe-galzerano-com-suporte-e-trocador-standard-girafa-dobravel-20kg/magazineluiza/224493300/01fee81b17e5292658bb90b085139bc5.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Galzerano"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "236.55",
+      "highPrice": "329.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2244935",
+    "description": "Banheira de Bebê Galzerano com Suporte e Trocador"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Galaxy Watch BT 46mm",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/galaxy-watch-bt-46mm-samsung/lojasamsung/1004/24be876bbe4dd8fd6f49b3bd3e6c08fa.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "31"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1979.1",
+      "highPrice": "2199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kafcg56g30",
+    "description": "Galaxy Watch BT 46mm"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Torneira Cozinha Gourmet Monocomando 50 Cm Spray Extensor",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/torneira-cozinha-gourmet-monocomando-50-cm-spray-extensor-genoese/ultravendas/7700668297/5f7183f08c78134f7e32c3f900b4df1c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Genoese"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "337.98",
+      "highPrice": "337.98",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ck3f6d9669",
+    "description": "Torneira Cozinha Gourmet Monocomando 50 Cm Spray Extensor"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy A20s, Octa-Core, Tela de 6,5”, 32GB, Câmera Tripla 13MP+5MP+8MP",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-a20s-octa-core-tela-de-65-32gb-camera-tripla-13mp-5mp-8mp/lojasamsung/2345/0088808a69fb0201de63743e5daafbfb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1259.1",
+      "highPrice": "1399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ke6db6ekbe",
+    "description": "Smartphone Samsung Galaxy A20s, Octa-Core, Tela de 6,5”, 32GB, Câmera Tripla 13MP+5MP+8MP"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Oba Fone Smart Celular com internet e WhatsApp ObaSmart Obabox",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/oba-fone-smart-celular-com-internet-e-whatsapp-obasmart-obabox/obabox/27512/e57d2425ecf85db3706f17c43457085a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Obabox"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "8"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "799.9",
+      "highPrice": "949.22",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jjj01g44g1",
+    "description": "Oba Fone Smart Celular com internet e WhatsApp ObaSmart Obabox"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/guarda-roupa-8-portas-e-4-gavetas-1684-araplac/multiloja/4917/36c1c944b02cc74f9c5d1910a113fb89.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Araplac"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "16"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "674.41",
+      "highPrice": "769.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kc8gdakd19",
+    "description": "Guarda Roupa 8 Portas e 4 Gavetas 1684 Araplac"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Álcool em Gel Delikad - Lavanda - Antisséptico para as mãos",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/alcool-em-gel-delikad-lavanda-antisseptico-para-as-maos/epocacosmeticos-integra/51882/3b551a6a9270e38503d9c0b3c8258874.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Delikad"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "9.9",
+      "highPrice": "9.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fhbf95bdj1",
+    "description": "Álcool em Gel Delikad - Lavanda - Antisséptico para as mãos"
+  }

@@ -1,0 +1,648 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Tablet Infantil Multilaser Frozen Plus com Capa ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/tablet-infantil-multilaser-frozen-plus-com-capa-16gb-7-wi-fi-android-8-1-quad-core-cam-2mp/magazineluiza/224437400/8c9232f73526ea6631ad235b56746440.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Multilaser"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "1",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "417.91",
+      "highPrice": "679",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2244374",
+    "description": "Tablet Infantil Multilaser Frozen Plus com Capa "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Painel para TV Intense Lukaliam Off White / Damasco",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/painel-para-tv-intense-lukaliam-off-white-damasco/esplanadamoveis/8256/249e88b62bf7716d7a647d59fa514ae7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lukaliam"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "98"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "499",
+      "highPrice": "799",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dcd32j6ffa",
+    "description": "Painel para TV Intense Lukaliam Off White / Damasco"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Balança Digital de Bioimpedância até 150kg",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/balanca-digital-de-bioimpedancia-ate-150kg-omron-hbf-514/magazineluiza/213974700/b7fba044cb2ddda6c059e5fc095a5bbb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Omron"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "123"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "341.91",
+      "highPrice": "699.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2139747",
+    "description": "Balança Digital de Bioimpedância até 150kg"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cozinha Completa Compacta Madesa Emilly com Armário e Balcão",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cozinha-completa-compacta-madesa-emilly-com-armario-e-balcao/madesa/g200705z/ec277de71c96135873d15fe1bfbea964.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Madesa"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "34"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "474.99",
+      "highPrice": "699.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "6906795",
+    "description": "Cozinha Completa Compacta Madesa Emilly com Armário e Balcão"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy S20+ 128GB Cosmic Black",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-s20-128gb-cosmic-black-8gb-ram-tela-67-cam-quadrupla-selfie-10mp/magazineluiza/155577200/c1394ae090782b0479ecca699da3f2ec.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "5399.1",
+      "highPrice": "5999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555776",
+    "description": "Smartphone Samsung Galaxy S20+ 128GB Cosmic Black"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cama Box Casal Colchão Molas Verticoil e Box Marrom Cobalt Inducol 138x188x62cm",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cama-box-casal-colchao-molas-verticoil-e-box-marrom-cobalt-inducol-138x188x62cm/esplanadamoveis/20432/67f86a7d1dc2aa7396c3bbcb1ff3a4be.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Inducol"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "30"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "599",
+      "highPrice": "899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ad5d6f7fee",
+    "description": "Cama Box Casal Colchão Molas Verticoil e Box Marrom Cobalt Inducol 138x188x62cm"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fritadeira Elétrica Sem Óleo/Air Fryer Mondial",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fritadeira-eletrica-sem-oleo-air-fryer-mondial-naf-05-preta-32l-com-timer/magazineluiza/023324800/6fb7ddba53e0b7c3106d0222ca8d9685.JPG"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "84"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "313.41",
+      "highPrice": "499.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0233248",
+    "description": "Fritadeira Elétrica Sem Óleo/Air Fryer Mondial"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Máquina de Lavar Consul 9kg Dosagem Extra Econômica e Ciclo Edredom  - CWB09AB",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/maquina-de-lavar-consul-9kg-dosagem-extra-economica-e-ciclo-edredom-cwb09ab/consul/2004650/df7b9e182aa1557cf329a5db331bbd7e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Consul"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "15"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1179",
+      "highPrice": "1499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bce34b8668",
+    "description": "Máquina de Lavar Consul 9kg Dosagem Extra Econômica e Ciclo Edredom  - CWB09AB"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Aspirador de Pó Mondial Filtro HEPA 1500W ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/aspirador-de-po-mondial-filtro-hepa-1500w-hepa-turbo-2000-laranja-e-branco/magazineluiza/021473300/c5c6b2548a4da0632608fef5891c4e90.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "16"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "189.91",
+      "highPrice": "249",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0214734",
+    "description": "Aspirador de Pó Mondial Filtro HEPA 1500W "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Colchão Casal 138X188cm Espuma D28 Confort Soft Liso Gazin",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/colchao-casal-138x188cm-espuma-d28-confort-soft-liso-gazin-gazin-colchoes/multiloja/14963/104626fe5395807d863b933c5c97c961.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Gazin"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "23"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "299.9",
+      "highPrice": "399.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kehek060f3",
+    "description": "Colchão Casal 138X188cm Espuma D28 Confort Soft Liso Gazin"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K12+ 32GB Azul 4G Octa-Core",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k12-32gb-azul-4g-octa-core-3gb-ram-tela-57-cam-16mp-cam-selfie-8mp/magazineluiza/155571200/9c8afb69439c1f9e88961fa1e55136c6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "2"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "836.07",
+      "highPrice": "899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555712",
+    "description": "Smartphone LG K12+ 32GB Azul 4G Octa-Core"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy J2 Core",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-j2-core/lojasamsung/2045/776c87c049d2b8c50c29464c151f61d4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "37"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "719.1",
+      "highPrice": "799",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fabf5e5ghc",
+    "description": "Smartphone Samsung Galaxy J2 Core"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Pneu Aro 13” Goodyear 175/70R13 82T",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/pneu-aro-13-goodyear-175-70r13-82t-direction-touring/magazineluiza/218807000/5f3b4232a0f18d596440bff19ec93123.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Goodyear"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "15"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "179.9",
+      "highPrice": "266",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2291166",
+    "description": "Pneu Aro 13” Goodyear 175/70R13 82T"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guarda Roupa Casal Madesa Mônaco 3 Portas de Correr com Espelho",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/guarda-roupa-casal-madesa-monaco-3-portas-de-correr-com-espelho/madesamoveis/10936e1e/6e5a9c04013c9b05f3c53e4f2dfd8d4f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Madesa"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "15"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "474.99",
+      "highPrice": "649.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "eh84aakhah",
+    "description": "Guarda Roupa Casal Madesa Mônaco 3 Portas de Correr com Espelho"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "iPhone 11 Pro Apple 512GB Cinza Espacial 4G",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/iphone-11-pro-apple-512gb-cinza-espacial-4g-tela-58-retina-camera-tripla-12mp-selfie-12mp/magazineluiza/155563200/ecfde86420fc72c2c025f3667baa939c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Apple"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "7439.07",
+      "highPrice": "8999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555632",
+    "description": "iPhone 11 Pro Apple 512GB Cinza Espacial 4G"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cozinha Completa Madesa Topazio com Armário, Balcão e Tampo",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cozinha-completa-madesa-topazio-com-armario-balcao-e-tampo/madesamoveis/g20088095z/eb07f781bff3494c382507d9f7f61c6b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Madesa"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "37"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "693.49",
+      "highPrice": "879.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "gagh0cf8ga",
+    "description": "Cozinha Completa Madesa Topazio com Armário, Balcão e Tampo"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bicicleta Aro 29 Mountain Bike Schwinn A20 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bicicleta-aro-29-mountain-bike-schwinn-a20-eagle-29-freio-a-disco-21-marchas-cambio-shimano/magazineluiza/224551200/6d56a85a9c16cd323cd17b9ccdf701b7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Schwinn"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "54"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1299.9",
+      "highPrice": "1689",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2245512",
+    "description": "Bicicleta Aro 29 Mountain Bike Schwinn A20 "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Lavadora De Alta Pressão K2 Karcher Black 110v 1600lbs Edição Limitada",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/lavadora-de-alta-pressao-k2-karcher-black-110v-1600lbs-edicao-limitada/ddmaquinas/63791/6a444b21c87f64ec8100f0b223c7392a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Karcher"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "399",
+      "highPrice": "429",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ddcfk8223f",
+    "description": "Lavadora De Alta Pressão K2 Karcher Black 110v 1600lbs Edição Limitada"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jogo de Toalhas Felpuda Buddemeyer Novitá",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jogo-de-toalhas-felpuda-buddemeyer-novita-100-algodao-azul-5-pecas/magazineluiza/225259800/994cbaaca60baf4d0f8e11d3801c0c82.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Buddemeyer"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "119.9",
+      "highPrice": "149.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2252602",
+    "description": "Jogo de Toalhas Felpuda Buddemeyer Novitá"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Motorola Moto G8 Play XT2015-2 32GB Vermelho",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-motorola-moto-g8-play-xt2015-2-32gb-vermelho/compreiemeuanymarket/0010060193/93a931f4b3128bba1d32ca70b2a79ba7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Motorola"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "919",
+      "highPrice": "1199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ghg63cckeh",
+    "description": "Smartphone Motorola Moto G8 Play XT2015-2 32GB Vermelho"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bicicleta Infantil Aro 24 Caloi Ceci 21 Marchas",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bicicleta-infantil-aro-24-caloi-ceci-21-marchas-branca-com-cesta-freio-v-brake/magazineluiza/182334100/2b9c193e7dffb8b65c13fbc6ad65deb0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Caloi"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "ratingCount": "29"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "541.41",
+      "highPrice": "1099",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1823341",
+    "description": "Bicicleta Infantil Aro 24 Caloi Ceci 21 Marchas"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bola Society Slick II Topper Exclusiva",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bola-society-slick-ii-topper-exclusiva/netshoes/d30-1270-120-01/b035edbc705d84b8b37eb06f1144b218.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Topper"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "39.99",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "chcaak0jfa",
+    "description": "Bola Society Slick II Topper Exclusiva"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Câmera de Segurança IP Wi-Fi Intelbras",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/camera-de-seguranca-ip-wi-fi-intelbras-interna-digital-infravermelho-visao-noturna-ic3/magazineluiza/040353600/7d94eee2c00fc81b70aaeddcfe87dfa9.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Intelbras"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "29"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "199.9",
+      "highPrice": "299.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0403536",
+    "description": "Câmera de Segurança IP Wi-Fi Intelbras"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Álcool em Gel Delikad - Lavanda - Antisséptico para as mãos",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/alcool-em-gel-delikad-lavanda-antisseptico-para-as-maos/epocacosmeticos-integra/51882/3b551a6a9270e38503d9c0b3c8258874.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Delikad"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "9.9",
+      "highPrice": "9.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fhbf95bdj1",
+    "description": "Álcool em Gel Delikad - Lavanda - Antisséptico para as mãos"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Carrinho de Bebê Multikids Flip",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/carrinho-de-bebe-multikids-flip-0-a-15kg/magazineluiza/219069600/f4f39c1065cbe0fc64e0ee6f3415d1de.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Multikids"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "5"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "296.91",
+      "highPrice": "474.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2190695",
+    "description": "Carrinho de Bebê Multikids Flip"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cama Box Solteiro Conjugada Unyco D28 Preta",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cama-box-solteiro-conjugada-unyco-d28-preta-mobly/mobly/mo173be27ltkmob-548482/b279c0d1a4c514a9985ef17359aed5ae.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mobly"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "25"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "277.99",
+      "highPrice": "299.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fgd849gc42",
+    "description": "Cama Box Solteiro Conjugada Unyco D28 Preta"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K40s 32GB Dual Chip Android 9 Tela 6.5" Octa Core 2.0GHz 4G Câmera 13+5MP",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k40s-32gb-dual-chip-android-9-tela-6-5-octa-core-2-0ghz-4g-camera-13-5mp/mobcom/16637/2af26401d718d1b9a8cede835377d869.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "679",
+      "highPrice": "999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ha777bj1db",
+    "description": "Smartphone LG K40s 32GB Dual Chip Android 9 Tela 6.5" Octa Core 2.0GHz 4G Câmera 13+5MP"
+  }

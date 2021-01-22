@@ -1,0 +1,907 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bolsa Snoopy Barrel Bag Grande Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bolsa-snoopy-barrel-bag-grande-feminina/zattini/w56-0054-004-01/d6b634f7c0369c908244758f38053824.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Snoopy"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "126.09",
+      "highPrice": "179",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dd5626gc1e",
+    "description": "Bolsa Snoopy Barrel Bag Grande Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bolsa Petite Jolie Flap Express Transversal Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bolsa-petite-jolie-flap-express-transversal-feminina/zattini/e41-1173-006-01/7a282fa6b0a1bf6de2f189921dab778b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Petite Jolie"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "58.19",
+      "highPrice": "69.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "he261gk3da",
+    "description": "Bolsa Petite Jolie Flap Express Transversal Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Ala Salto Alto Verniz",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-ala-salto-alto-verniz/zattini/j36-0019-014-36/cc73a998bfd52547dbedf73d76b0e2b7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ala"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "71.24",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jd55akj953",
+    "description": "Scarpin Ala Salto Alto Verniz"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Ala Salto Alto Verniz",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-ala-salto-alto-verniz/zattini/j36-0019-016-37/b0ddc5c3b5512a56e3c620ebbe5825e8.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ala"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jd55akj953",
+    "description": "Scarpin Ala Salto Alto Verniz"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Ala Salto Alto Verniz",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-ala-salto-alto-verniz/zattini/j36-0019-034-36/046f6515b356c225f8e35c73123d19b4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ala"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jd55akj953",
+    "description": "Scarpin Ala Salto Alto Verniz"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Ala Salto Alto Verniz",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-ala-salto-alto-verniz/zattini/j36-0019-203-37/55e93991ce80758bb2e5ca1d727a5dbd.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ala"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "71.24",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jd55akj953",
+    "description": "Scarpin Ala Salto Alto Verniz"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Ala Salto Alto Verniz",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-ala-salto-alto-verniz/zattini/j36-0019-006-38/7948ec32b5e4aa4a64d59b21a0eb3354.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ala"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jd55akj953",
+    "description": "Scarpin Ala Salto Alto Verniz"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Moleca Lacinho Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-moleca-lacinho-feminina/zattini/d98-4896-203-37/9412c9fc4419cf9ce0db7984d2bba2a1.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Moleca"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "39.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "achj0fcggc",
+    "description": "Sapatilha Moleca Lacinho Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Óculos de Sol Colcci Gatinho Feminino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/oculos-de-sol-colcci-gatinho-feminino/zattini/nfn-0209-998-01/05af983c2539244e3bdc9eacce86b9ac.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Colcci"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "100.99",
+      "highPrice": "199.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ff3jhge90e",
+    "description": "Óculos de Sol Colcci Gatinho Feminino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Casaco Queen's Lã Batida Bicolor Feminino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/casaco-queen-s-la-batida-bicolor-feminino/zattini/g33-0688-010-04/4d96b9c7984acc04d90a598f7cecd34b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Queen's"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "113.99",
+      "highPrice": "119.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jc8jb51a6g",
+    "description": "Casaco Queen's Lã Batida Bicolor Feminino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bota Via Uno Cano Curto  Salto Fino Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bota-via-uno-cano-curto-salto-fino-feminina/zattini/cob-1253-006-38/a79a92b5e49eb56950470c2f38eb98bf.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "85.49",
+      "highPrice": "159.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "da23c1h4c9",
+    "description": "Bota Via Uno Cano Curto  Salto Fino Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bolsa Colcci Flap Floater Básica Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bolsa-colcci-flap-floater-basica-feminina/zattini/nfn-0151-219-01/5cc879d3138f0258632528e22c029dfe.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Colcci"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "208.04",
+      "highPrice": "399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "efh67gg3f0",
+    "description": "Bolsa Colcci Flap Floater Básica Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Studio Ana Paula Lacinho Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-studio-ana-paula-lacinho-feminina/zattini/mik-0025-040-36/6d00968b5fb6be10960d2c31db5ccb1f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "32.29",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bcccc6ehhj",
+    "description": "Sapatilha Studio Ana Paula Lacinho Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Studio Ana Paula Lacinho Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-studio-ana-paula-lacinho-feminina/zattini/mik-0025-006-36/1350b79fa191944d27e2fdcf589d11fc.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "24.24",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bcccc6ehhj",
+    "description": "Sapatilha Studio Ana Paula Lacinho Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Via Uno Salto Grosso Baixo Tornozeleira Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-via-uno-salto-grosso-baixo-tornozeleira-feminina/zattini/cob-0498-006-36/17c69857cc148497d09ae923d81e7983.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "47.49",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jje0ff38c7",
+    "description": "Sandália Via Uno Salto Grosso Baixo Tornozeleira Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Ala Salto Alto Fino Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-ala-salto-alto-fino-feminina/zattini/j36-0077-006-38/9883768b91c5f93cf362f24291a7618d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ala"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "56.99",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fb51b15fj0",
+    "description": "Sandália Ala Salto Alto Fino Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bota Over The Knee Zatz Salto Grosso Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bota-over-the-knee-zatz-salto-grosso-amarracao-feminina/zattini/g52-0392-006-37/43d9ad45d8c44974d3ba8efcd74b737d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Zatz"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "104.49",
+      "highPrice": "149.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kg8f7he3k5",
+    "description": "Bota Over The Knee Zatz Salto Grosso Amarração Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bota Cano Curto Via Uno Salto Fino Drapeada Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bota-cano-curto-via-uno-salto-fino-drapeada-feminina/zattini/cob-0266-006-36/fe2ce90c9efb19f68d42538f7e2c6cb2.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "94.99",
+      "highPrice": "159.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ejj353jkgc",
+    "description": "Bota Cano Curto Via Uno Salto Fino Drapeada Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Griffe Anabela Amarração",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-griffe-anabela-amarracao/zattini/bav-0203-004-35/ab3394b1dc96febfd2349fc9c7f040c0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "71.24",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ahf5ahc6b9",
+    "description": "Sandália Griffe Anabela Amarração"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bolsa Via Uno Eco Verniz Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bolsa-via-uno-eco-verniz-feminina/zattini/cob-1177-006-01/85fc546140e758947866c57c44cd3259.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "77.59",
+      "highPrice": "119.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ec715hc8dd",
+    "description": "Bolsa Via Uno Eco Verniz Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Espadrille Anabela Via Uno Suede Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-espadrille-anabela-via-uno-suede-feminina/zattini/cob-0525-298-37/7483a2c42b280d28378cb9010bdfd1a7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "47.49",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kgf4db7c73",
+    "description": "Sandália Espadrille Anabela Via Uno Suede Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Espadrille Anabela Via Uno Suede Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-espadrille-anabela-via-uno-suede-feminina/zattini/cob-0525-006-34/890e6b099537f9f47174cd14298f7f8d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "53.34",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kgf4db7c73",
+    "description": "Sandália Espadrille Anabela Via Uno Suede Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Espadrille Anabela Via Uno Suede Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-espadrille-anabela-via-uno-suede-feminina/zattini/cob-0525-004-37/ad076b91047a7f7f08e213dd518785ef.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "48.49",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kgf4db7c73",
+    "description": "Sandália Espadrille Anabela Via Uno Suede Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Griffe Salto Grosso Nó Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-griffe-salto-grosso-no-feminina/zattini/bav-0224-006-35/1c00faf16ec59239639b835286c635eb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "67.89",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "aa312hb6fh",
+    "description": "Sandália Griffe Salto Grosso Nó Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Griffe Recorte Salto Alto",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-griffe-recorte-salto-alto/zattini/bav-0013-205-36/27741c91e89fb715d982ef8f7d9a049f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fg9kj22f9b",
+    "description": "Scarpin Griffe Recorte Salto Alto"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Griffe Recorte Salto Alto",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-griffe-recorte-salto-alto/zattini/bav-0013-203-36/3483b985b06599b559f2861947615822.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fg9kj22f9b",
+    "description": "Scarpin Griffe Recorte Salto Alto"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Scarpin Griffe Recorte Salto Alto",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/scarpin-griffe-recorte-salto-alto/zattini/bav-0013-006-38/811e6c7886eb0ac8c4c4eccceccc5724.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Griffe"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "67.89",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fg9kj22f9b",
+    "description": "Scarpin Griffe Recorte Salto Alto"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatênis Couro Cano Médio Wakalbout Masculino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatenis-couro-cano-medio-wakalbout-masculino-walkabout/zattini/h25-0919-003-41/bc7167b0fca4ed1c8745845b924f0277.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Wakalbout"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "87.29",
+      "highPrice": "199.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fb7fdcfag4",
+    "description": "Sapatênis Couro Cano Médio Wakalbout Masculino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Vizzano Salto Médio Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-vizzano-salto-medio-feminina/zattini/e11-6016-006-36/24309a4085418e73aaab5ebdffe3bf59.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Vizzano"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "66.49",
+      "highPrice": "89.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ae8hk4h0cb",
+    "description": "Sandália Vizzano Salto Médio Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatênis Walkabout Perfuros Masculino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatenis-walkabout-perfuros-masculino/zattini/h25-1288-003-40/ccd42974cc4ba1c2afafa0e7601a1161.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Walkabout"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "56.99",
+      "highPrice": "129.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kf9ej94kh6",
+    "description": "Sapatênis Walkabout Perfuros Masculino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Moleca Tressê Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-moleca-tresse-feminina/zattini/d98-3924-014-37/2fbf3ea49263e08ab736ab63ab73c3d0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Moleca"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "37.99",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jk9k7dkd7d",
+    "description": "Sapatilha Moleca Tressê Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatilha Moleca Tressê Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatilha-moleca-tresse-feminina/zattini/d98-3924-018-37/ceed31209f4a8d10dcfcc97a5a3ff408.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Moleca"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "43.64",
+      "highPrice": "49.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "jk9k7dkd7d",
+    "description": "Sapatilha Moleca Tressê Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-studio-ana-paula-espadrille-amarracao-feminina/zattini/mik-0036-004-36/78a0e30c1efa248818991ddac2f5a1eb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "47.49",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hajbj3ef1g",
+    "description": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-studio-ana-paula-espadrille-amarracao-feminina/zattini/mik-0036-311-35/945c206b7a98d6cc0904e4cffe01c57d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "58.89",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hajbj3ef1g",
+    "description": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-studio-ana-paula-espadrille-amarracao-feminina/zattini/mik-0036-219-35/b7bbb77a55669186f277dfa1cf6d98e1.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "58.19",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hajbj3ef1g",
+    "description": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bota Mooncity Coturno Salto Alto Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bota-mooncity-coturno-salto-alto-feminina/zattini/e80-0795-006-37/fb6d12eafc275434f0340979eb4b20ca.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mooncity"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "94.99",
+      "highPrice": "139.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "khg51626d8",
+    "description": "Bota Mooncity Coturno Salto Alto Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sapatênis Couro Pegada Detalhe Zíper Lateral Masculino",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sapatenis-couro-pegada-detalhe-ziper-lateral-masculino/zattini/e21-1637-219-41/fe9cfbb2a28a0af32a633ae6e2105a48.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Pegada"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "121.24",
+      "highPrice": "189.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fg3hd72f74",
+    "description": "Sapatênis Couro Pegada Detalhe Zíper Lateral Masculino"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Vestido Lily Fashion Evasê Curto Estampado",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/vestido-lily-fashion-evase-curto-estampado/zattini/esi-0108-014-02/796879635f9082059ed81feb0ff351fd.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lily Fashion"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "67.89",
+      "highPrice": "69.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kgd454a7hj",
+    "description": "Vestido Lily Fashion Evasê Curto Estampado"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Infantil Havaianas Move Masculina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-infantil-havaianas-move-masculina/zattini/d53-0734-010-27/20257d9ce677cbad4f8bd8c332c106ca.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Havaianas"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "28.49",
+      "highPrice": "44.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "heed2j27c5",
+    "description": "Sandália Infantil Havaianas Move Masculina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Calça Jeans Skinny Ecxo Masculina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/calca-jeans-skinny-ecxo-masculina/zattini/lyu-0207-008-46/565458f2607d43511394f1ae0e8f97dd.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Ecxo"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "77.59",
+      "highPrice": "149.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "agjka74733",
+    "description": "Calça Jeans Skinny Ecxo Masculina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bota Coturno Moleca Salto Alto Tratorada Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bota-coturno-moleca-salto-alto-tratorada-feminina/zattini/d98-5058-006-38/8bbe9f61e250e517d128b1e300c4c696.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Moleca"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "118.74",
+      "highPrice": "169.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kfk9j5j02b",
+    "description": "Bota Coturno Moleca Salto Alto Tratorada Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Via Uno Espadrille Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-via-uno-espadrille-amarracao-feminina/zattini/cob-1141-219-36/f248e5ae24008d7ece41b149171e3742.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Via Uno"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "47.49",
+      "highPrice": "99.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dkg31k7j0a",
+    "description": "Sandália Anabela Via Uno Espadrille Amarração Feminina"
+  }

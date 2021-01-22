@@ -1,0 +1,235 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k12-32gb-platinum-4g-3gb-ram-57-cam-16mp-selfie-8mp-inteligencia-artificial/magazineluiza/155554300/0d7598547ced650b0d921adfbfac5d91.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "23"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "688.11",
+      "highPrice": "1199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555543",
+    "description": "Smartphone LG K12+ 32GB Platinum 4G 3GB RAM"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Prancha Gama Italy Bella Pro Ceramic Bivolt",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/prancha-gama-italy-bella-pro-ceramic-bivolt/zattini/l90-0086-460-01/093264cb79944f82c5c077cca41a6c2e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "GA.MA Italy"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "61.74",
+      "highPrice": "119.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ae27d77505",
+    "description": "Prancha Gama Italy Bella Pro Ceramic Bivolt"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Expositor de Bebidas Vertical Gelopar GPTU 40",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/expositor-de-bebidas-vertical-gelopar-gptu-40-414l-frost-free-1-porta/magazineluiza/202962300/c079027009420ed5e2e7295c410d441f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Gelopar"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "24"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2696.91",
+      "highPrice": "3699",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2029623",
+    "description": "Expositor de Bebidas Vertical Gelopar GPTU 40"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Galaxy Watch Active - Smartwatch -",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/galaxy-watch-active-smartwatch-samsung/lojasamsung/2179/4752302418dbe9627bc4c0efbac59607.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1349.1",
+      "highPrice": "1499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ae0fe8hf98",
+    "description": "Galaxy Watch Active - Smartwatch -"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cooktop 4 Bocas Philco Cook Chef 4 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cooktop-4-bocas-philco-cook-chef-4-a-gas-glp-acendimento-automatico/magazineluiza/216821400/5a6e1712c848e8c4c6a2c0db748fe34b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "91"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "306.81",
+      "highPrice": "499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2168214",
+    "description": "Cooktop 4 Bocas Philco Cook Chef 4 "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Painel para TV até 60 Polegadas 2 Portas New Caju Linea Brasil",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/painel-para-tv-ate-60-polegadas-2-portas-new-caju-linea-brasil/multiloja/17417/770d759461098ba8a0b5f8dc2929a8e9.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "MDF"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "24"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "319.9",
+      "highPrice": "339.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ee1975ckfk",
+    "description": "Painel para TV até 60 Polegadas 2 Portas New Caju Linea Brasil"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Perfume Masculino One Million Paco Rabanne Eau de Toilette 30ml",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/perfume-masculino-one-million-paco-rabanne-eau-de-toilette-30ml/zattini/m42-0139-460-01/a3ff882c9b9c17aefc1294954c0bfd75.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Paco Rabanne"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "189.99",
+      "highPrice": "229.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hca2g604j4",
+    "description": "Perfume Masculino One Million Paco Rabanne Eau de Toilette 30ml"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fone de Ouvido JBL Bluetooth Live 200BT",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fone-de-ouvido-jbl-bluetooth-live-200bt/netshoes/n26-0496-006-01/ad6a73dc216b751be58c4cc297f75e6a.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "JBL"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "139.99",
+      "highPrice": "199.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fd2j67c330",
+    "description": "Fone de Ouvido JBL Bluetooth Live 200BT"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-studio-ana-paula-espadrille-amarracao-feminina/zattini/mik-0036-219-37/b7bbb77a55669186f277dfa1cf6d98e1.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "56.99",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hajbj3ef1g",
+    "description": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Kit Cueca Boxer Lupo 10 Peças",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/kit-cueca-boxer-lupo-10-pecas/zattini/dcp-2840-028-02/2287537954c9ce4746ecea78970ce96c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lupo"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "180.49",
+      "highPrice": "209.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fjdbdkgk99",
+    "description": "Kit Cueca Boxer Lupo 10 Peças"
+  }

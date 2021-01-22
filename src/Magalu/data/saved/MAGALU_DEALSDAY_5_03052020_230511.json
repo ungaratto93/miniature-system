@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cooktop 4 Bocas Philco Cook Chef 4 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cooktop-4-bocas-philco-cook-chef-4-a-gas-glp-acendimento-automatico/magazineluiza/216821400/5a6e1712c848e8c4c6a2c0db748fe34b.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "91"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "306.81",
+      "highPrice": "499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2168214",
+    "description": "Cooktop 4 Bocas Philco Cook Chef 4 "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sandalia-anabela-studio-ana-paula-espadrille-amarracao-feminina/zattini/mik-0036-219-37/b7bbb77a55669186f277dfa1cf6d98e1.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Studio Ana Paula"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "1"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "56.99",
+      "highPrice": "89.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hajbj3ef1g",
+    "description": "Sandália Anabela Studio Ana Paula Espadrille Amarração Feminina"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Kit Cueca Boxer Lupo 10 Peças",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/kit-cueca-boxer-lupo-10-pecas/zattini/dcp-2840-028-02/2287537954c9ce4746ecea78970ce96c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lupo"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "180.49",
+      "highPrice": "209.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "fjdbdkgk99",
+    "description": "Kit Cueca Boxer Lupo 10 Peças"
+  }

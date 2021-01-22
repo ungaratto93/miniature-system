@@ -1,0 +1,693 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sabão em Pó Omo Lavagem Perfeita Concentrado",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sabao-em-po-omo-lavagem-perfeita-concentrado-56kg/magazineluiza/224489500/d6a2d2ea7fb394bd0e298b4c26f54964.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Omo"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "145"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "39.9",
+      "highPrice": "49.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2244895",
+    "description": "Sabão em Pó Omo Lavagem Perfeita Concentrado"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Microondas Electrolux 20 Litros Branco  MTD30  220V",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/microondas-electrolux-20-litros-branco-mtd30-220v/dufrio/100246445/0870360f28a285cf1bc85304308041a5.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Electrolux"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "13"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "350.55",
+      "highPrice": "385.61",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hj79kjbjd8",
+    "description": "Microondas Electrolux 20 Litros Branco  MTD30  220V"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Motorola G8 Play 32GB Preto Ônix 4G",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-motorola-g8-play-32gb-preto-onix-4g-2gb-ram-tela-62-cam-tripla-cam-selfie-8mp/magazineluiza/155567400/c4025edaf65bde8dd1b7f81629c9acf6.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Motorola"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "51"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1022.07",
+      "highPrice": "1099",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555674",
+    "description": "Smartphone Motorola G8 Play 32GB Preto Ônix 4G"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV LED 32” TCL 32S6500 Android Wi-Fi HDR",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-led-32-tcl-32s6500-android-wi-fi-hdr-inteligencia-artificial-2-hdmi-usb/magazineluiza/193425100/d4b36e4bef13208709aee3429431c8cb.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "TCL"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "121"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "934.8",
+      "highPrice": "1299",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934251",
+    "description": "Smart TV LED 32” TCL 32S6500 Android Wi-Fi HDR"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Pilha AA Pequena Alcalina 16 Unidades",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/pilha-aa-pequena-alcalina-16-unidades-duracell/magazineluiza/220300400/3fbb5830adb003ebcf291a5edc11dbe2.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Duracell"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "23"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "39.9",
+      "highPrice": "69.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2203004",
+    "description": "Pilha AA Pequena Alcalina 16 Unidades"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K12+ 32GB Preto 4G Octa-Core",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k12-32gb-preto-4g-octa-core-3gb-ram-tela-57-cam-16mp-cam-selfie-8mp/magazineluiza/155571100/637695d93823cedad128703b7a39c230.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "7"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "696.57",
+      "highPrice": "899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555712",
+    "description": "Smartphone LG K12+ 32GB Preto 4G Octa-Core"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Lavadora de Roupas Brastemp BWK12AB 12Kg",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/lavadora-de-roupas-brastemp-bwk12ab-12kg-cesto-inox-12-programas-de-lavagem/magazineluiza/010573100/45bc98cdbea8835aa3c89b6c130d46ff.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Brastemp"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "37"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1619",
+      "highPrice": "2199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0105731",
+    "description": "Lavadora de Roupas Brastemp BWK12AB 12Kg"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Escova Secadora Mondial 1200W Cerâmica",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/escova-secadora-mondial-1200w-ceramica-3-velocidades-golden-rose-es-02/magazineluiza/220506000/7ea3188ecfe1a36bad2d81ee2868b4fe.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "73"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "170.91",
+      "highPrice": "229.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1085086",
+    "description": "Escova Secadora Mondial 1200W Cerâmica"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV LED 32” Philco PH32B51DSGWA",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-led-32-philco-ph32b51dsgwa-wi-fi-2-hdmi-2-usb/magazineluiza/193409500/d22a80933f12e4eeb6c8aeb7d403a160.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "10"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "949.05",
+      "highPrice": "1499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934095",
+    "description": "Smart TV LED 32” Philco PH32B51DSGWA"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV 4K LED 43” Samsung UN43RU7100 Tizen",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-4k-led-43-samsung-un43ru7100-tizen-wi-fi-bluetooth-hdr-3-hdmi-2-usb/magazineluiza/193425400/7b3a208a82892c4b7fc8d6836bfad94c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1804.05",
+      "highPrice": "2599",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934254",
+    "description": "Smart TV 4K LED 43” Samsung UN43RU7100 Tizen"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "iPhone 8 Apple 64GB Cinza Espacial 4G Tela 4,7”",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/iphone-8-apple-64gb-cinza-espacial-4g-tela-47-retina-cam-12mp-selfie-7mp-ios-11/magazineluiza/155542600/ae10ef5181269f4085ea55b7b38bf514.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Apple"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "49"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2603.07",
+      "highPrice": "3999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555426",
+    "description": "iPhone 8 Apple 64GB Cinza Espacial 4G Tela 4,7”"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Notebook Dell Inspiron i15-3583-A30P Intel Core i7",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/notebook-dell-inspiron-i15-3583-a30p-intel-core-i7-8gb-2tb-156-placa-de-video-2gb-windows-10/magazineluiza/224112500/3f5db0ca48891956c28d009bbe93eca7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Dell"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "66"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "4274.05",
+      "highPrice": "4499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2241125",
+    "description": "Notebook Dell Inspiron i15-3583-A30P Intel Core i7"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Forno de Embutir a Gás GLP Brastemp",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/forno-de-embutir-a-gas-glp-brastemp-grill-78l-boa84-aerna/magazineluiza/216534900/e5415b80660a0fd8feb149da6fdd3e9e.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Brastemp"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.6",
+        "ratingCount": "543"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1124.91",
+      "highPrice": "1899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2165349",
+    "description": "Forno de Embutir a Gás GLP Brastemp"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV 4K LED 50” LG 50UM7360PSA Wi-Fi",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-4k-led-50-lg-50um7360psa-wi-fi-inteligencia-artificial-controle-smart-magic/magazineluiza/193430000/c8c74ff5b69d86b42439fcc6b2c3a611.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "220"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2089.05",
+      "highPrice": "3299",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934300",
+    "description": "Smart TV 4K LED 50” LG 50UM7360PSA Wi-Fi"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV 4K LED 60” LG 60UM7270PSA Wi-Fi HDR",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-4k-led-60-lg-60um7270psa-wi-fi-hdr-inteligencia-artificial-controle-smart-magic/magazineluiza/193428300/2047582e3f89e57bc941a1f1dfedb118.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "78"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2944.05",
+      "highPrice": "3599",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934283",
+    "description": "Smart TV 4K LED 60” LG 60UM7270PSA Wi-Fi HDR"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Aparelho de Jantar Chá 20 Peças Biona Cerâmica",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/aparelho-de-jantar-cha-20-pecas-biona-ceramica-redondo-donna/magazineluiza/143282000/03f921f0ee55e4165127ff9697148f97.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Biona"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.2",
+        "ratingCount": "430"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "149.9",
+      "highPrice": "199.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1432820",
+    "description": "Aparelho de Jantar Chá 20 Peças Biona Cerâmica"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Notebook Acer Aspire 3 A315-53-348W Intel Core i3",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/notebook-acer-aspire-3-a315-53-348w-intel-core-i3-4gb-1tb-156-windows-10/magazineluiza/135269900/85d374c009b1c2c7e40e53591848efed.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Acer"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "24"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2279.05",
+      "highPrice": "2399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1352699",
+    "description": "Notebook Acer Aspire 3 A315-53-348W Intel Core i3"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV LED 43” LG 43LM6300PSB Full HD Wi-Fi",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-led-43-lg-43lm6300psb-full-hd-wi-fi-inteligencia-artificial-3-hdmi-2-usb/magazineluiza/193428600/d84ff90fe0822a3ade56218e2856aed8.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "105"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1709.05",
+      "highPrice": "1999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934286",
+    "description": "Smart TV LED 43” LG 43LM6300PSB Full HD Wi-Fi"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Monitor para PC LG 20M37AA 19,5” LED",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/monitor-para-pc-lg-20m37aa-195-led-widescreen-hd/magazineluiza/215568800/5a572352a0dd8115c26cb0a8d96a8a39.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "570"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "379.05",
+      "highPrice": "499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2155688",
+    "description": "Monitor para PC LG 20M37AA 19,5” LED"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Notebook Samsung Essentials E30 Intel Core i3 4GB",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/notebook-samsung-essentials-e30-intel-core-i3-4gb-1tb-156-full-hd-windows-10/magazineluiza/221225800/ea80e7edbd2ac183af3aa6a68118806d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2421.55",
+      "highPrice": "2549",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2212258",
+    "description": "Notebook Samsung Essentials E30 Intel Core i3 4GB"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fogão 4 Bocas Consul Acendimento Automático",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fogao-4-bocas-consul-acendimento-automatico-cfo4-naruna/magazineluiza/214469000/f294b36f2e2c709bb367172e823b5933.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Consul"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "ratingCount": "266"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "773.1",
+      "highPrice": "1229.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2144690",
+    "description": "Fogão 4 Bocas Consul Acendimento Automático"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV DLED 32” Philco PTV32G52S",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-dled-32-philco-ptv32g52s-wi-fi-hdr-2-hdmi-usb/magazineluiza/193433400/851b33065600c462bd9264c1f0ee6859.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "12"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "899.65",
+      "highPrice": "1049",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934334",
+    "description": "Smart TV DLED 32” Philco PTV32G52S"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Notebook Lenovo Ideapad S145-15IGM ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/notebook-lenovo-ideapad-s145-15igm-intel-dual-core-4gb-500gb-156-windows-10/magazineluiza/224780400/7fcd4792a7908e070701d8fb24a00d1f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lenovo"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "45"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1899.05",
+      "highPrice": "1999",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2247804",
+    "description": "Notebook Lenovo Ideapad S145-15IGM "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Geladeira/Refrigerador Consul Frost Free Duplex",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/geladeira-refrigerador-consul-frost-free-duplex-437l-bem-estar-crm55-abbna-branco/magazineluiza/088894300/eaed3253b8768ee09f60963c70947198.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "consul"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "809"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2489",
+      "highPrice": "2899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0888943",
+    "description": "Geladeira/Refrigerador Consul Frost Free Duplex"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Tablet Philco PTB7QSG 8GB 7” Wi-Fi",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/tablet-philco-ptb7qsg-8gb-7-wi-fi-android-7-1-2-nougat-quad-core/magazineluiza/221386900/db75d5124d8fe48128fd46f31948b24c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "1",
+        "ratingCount": "59"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "284.91",
+      "highPrice": "419",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2213869",
+    "description": "Tablet Philco PTB7QSG 8GB 7” Wi-Fi"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone Samsung Galaxy J2 Core 16GB Prata",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-samsung-galaxy-j2-core-16gb-prata-4g-1gb-ram-tela-5-cam-8mp-cam-selfie-5mp/magazineluiza/155549000/b71fb68f3bc9be3055df16e366f3a84f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "27"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "557.07",
+      "highPrice": "794",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555490",
+    "description": "Smartphone Samsung Galaxy J2 Core 16GB Prata"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Playstation 4 1TB 1 Controle Sony ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/playstation-4-1tb-1-controle-sony-com-3-jogos/magazineluiza/043078200/552a8bea37fc18d47364419e1ab846df.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Sony"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "22"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2599.9",
+      "highPrice": "2599.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0430782",
+    "description": "Playstation 4 1TB 1 Controle Sony "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cadeira de Escritório Giratória PRE-002",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cadeira-de-escritorio-giratoria-pre-002-nell/magazineluiza/224326700/28d33d1961e4c76caf47a9fa08794959.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Nell Móveis"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "92"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "436.91",
+      "highPrice": "499.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2243267",
+    "description": "Cadeira de Escritório Giratória PRE-002"
+  }

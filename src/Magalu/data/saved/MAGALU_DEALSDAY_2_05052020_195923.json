@@ -1,0 +1,725 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Kit Premium Wine Philco com Liquidificador",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/kit-premium-wine-philco-com-liquidificador-batedeira/magazineluiza/218898800/bbe9c420ac881944795634d4ce2d7a2c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "396"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "359.9",
+      "highPrice": "399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2188989",
+    "description": "Kit Premium Wine Philco com Liquidificador"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Micro-ondas Midea 20 Litros Espelhado MTFE21  127 Volts",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/micro-ondas-midea-20-litros-espelhado-mtfe21-127-volts/friopecas/123907/b1ee7e8d9d04b79f613f1af5ae89e0d4.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Midea"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "19"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "316",
+      "highPrice": "326",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "bkg1dj9399",
+    "description": "Micro-ondas Midea 20 Litros Espelhado MTFE21  127 Volts"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Telefone Sem Fio Motorola MOTO700 ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/telefone-sem-fio-motorola-moto700-identificador-de-chamada-preto/magazineluiza/217585700/f45dea8843efdfc3ca91d117ebb70f50.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Motorola"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "131"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "104.9",
+      "highPrice": "149.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2175857",
+    "description": "Telefone Sem Fio Motorola MOTO700 "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "TV LED 32" HQ HQTV32 Resolução HD com Conversor Digital 3 HDMI 2 USB Recepção Digital",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/tv-led-32-hq-hqtv32-resolucao-hd-com-conversor-digital-3-hdmi-2-usb-recepcao-digital/comprebel2/24254/5bdc1ac04e34662a2103661b8a886d25.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "HQ"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "109"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "751.41",
+      "highPrice": "958.8",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dd07e0cagg",
+    "description": "TV LED 32" HQ HQTV32 Resolução HD com Conversor Digital 3 HDMI 2 USB Recepção Digital"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV 4K QLED 55” Samsung QN55Q60RAG",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-4k-qled-55-samsung-qn55q60rag-wi-fi-bluetooth-hdr-4-hdmi-2-usb/magazineluiza/193425900/36389bee8b52f3e31f25375bb17eae33.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "3599",
+      "highPrice": "5499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934259",
+    "description": "Smart TV 4K QLED 55” Samsung QN55Q60RAG"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Painel para TV Intense Lukaliam Off White / Damasco",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/painel-para-tv-intense-lukaliam-off-white-damasco/esplanadamoveis/8256/249e88b62bf7716d7a647d59fa514ae7.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Lukaliam"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "146"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "499",
+      "highPrice": "799",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dcd32j6ffa",
+    "description": "Painel para TV Intense Lukaliam Off White / Damasco"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Xbox One S 1TB 1 Controle Microsoft com 1 Jogo",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/xbox-one-s-1tb-1-controle-microsoft-com-1-jogo-live-gold-1-mes/magazineluiza/043078400/f04b9299655e9b0e9cef717b19fa0470.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Microsoft"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "23"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "2099.9",
+      "highPrice": "2099.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0430784",
+    "description": "Xbox One S 1TB 1 Controle Microsoft com 1 Jogo"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Guarda Roupa Casal com Espelho 3 Portas de Correr Lara Espresso Móveis Malbec",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/guarda-roupa-casal-com-espelho-3-portas-de-correr-lara-espresso-moveis-malbec/madeiramadeira-openapi/174027/2776271763bba14389d8043088119668.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Siena Móveis"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "15"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "649.9",
+      "highPrice": "983.84",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "8472879",
+    "description": "Guarda Roupa Casal com Espelho 3 Portas de Correr Lara Espresso Móveis Malbec"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "O Milagre da Manhã Hal Elrod",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/o-milagre-da-manha-hal-elrod-edicao-economica/magazineluiza/223026100/310751cbef3d597afeb749cee4e05f5c.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "best seller"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "20"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "12.9",
+      "highPrice": "19.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2230261",
+    "description": "O Milagre da Manhã Hal Elrod"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV LED 32” Sony KDL-32W655D HD Wi-FI Conversor Digital 2 HDMI 2 USB",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-led-32-sony-kdl-32w655d-hd-wi-fi-conversor-digital-2-hdmi-2-usb/mega-mamute/70169/944017b88cb689c1a930734301dc6afd.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Sony"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "999",
+      "highPrice": "1187",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "5331193",
+    "description": "Smart TV LED 32” Sony KDL-32W655D HD Wi-FI Conversor Digital 2 HDMI 2 USB"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Ventilador de Coluna Mallory TS Delfos",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/ventilador-de-coluna-mallory-ts-delfos-36cm-3-velocidades/magazineluiza/224780300/12a0a170d8ca87bdda3b68a9947ae5b0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mallory"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "79"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "129.9",
+      "highPrice": "199",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2247803",
+    "description": "Ventilador de Coluna Mallory TS Delfos"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cama Box Casal Colchão Molas Verticoil e Box Marrom Cobalt Inducol 138x188x62cm",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cama-box-casal-colchao-molas-verticoil-e-box-marrom-cobalt-inducol-138x188x62cm/esplanadamoveis/20432/67f86a7d1dc2aa7396c3bbcb1ff3a4be.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Inducol"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "44"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "649",
+      "highPrice": "899",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "ad5d6f7fee",
+    "description": "Cama Box Casal Colchão Molas Verticoil e Box Marrom Cobalt Inducol 138x188x62cm"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Rack para TV com Painel até 50” 1 Porta de Correr",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/rack-para-tv-com-painel-ate-50-1-porta-de-correr-madetec-tomaz/magazineluiza/213481100/864946596ecb1292729990351fbe4f81.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "madetec"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.2",
+        "ratingCount": "470"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "284.99",
+      "highPrice": "524.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2134811",
+    "description": "Rack para TV com Painel até 50” 1 Porta de Correr"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Tanquinho Colormaq 12 Kg ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/tanquinho-colormaq-12-kg-lcs-12-br/magazineluiza/224108800/b332acc2d92ba3425dcbff52b573428d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Colormaq"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "64"
+      },
+    
+    "sku": "2241088",
+    "description": "Tanquinho Colormaq 12 Kg "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fritadeira Elétrica Sem Óleo/Air Fryer Mondial",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fritadeira-eletrica-sem-oleo-air-fryer-mondial-naf-05-preta-32l-com-timer/magazineluiza/023324700/6fb7ddba53e0b7c3106d0222ca8d9685.JPG"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mondial"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "87"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "332.41",
+      "highPrice": "499.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0233248",
+    "description": "Fritadeira Elétrica Sem Óleo/Air Fryer Mondial"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Microondas 21 Litros Philco PMO21T Preto 110v",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/microondas-21-litros-philco-pmo21t-preto-110v/techshop/frnphc00026/9feced4c8f61fa31f01e47edcb968cac.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philco"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "399.9",
+      "highPrice": "399.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "5939999",
+    "description": "Microondas 21 Litros Philco PMO21T Preto 110v"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Depilador Elétrico Philips Satin Girl",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/depilador-eletrico-philips-satin-girl-seco-e-molhado/magazineluiza/108501600/44a534a9995ecf45a4301a64caf80144.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Philips"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.4",
+        "ratingCount": "45"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "89.9",
+      "highPrice": "149.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1085016",
+    "description": "Depilador Elétrico Philips Satin Girl"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Sofá New Ripley 2,05m Assento Retrátil e Reclinável Velosuede Cinza - NETSOFAS",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/sofa-new-ripley-205m-assento-retratil-e-reclinavel-velosuede-cinza-netsofas/netsofas/1121/541d6db06b7b56596ffa0bdb74c40f41.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "NETSOFAS"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "3",
+        "ratingCount": "26"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "899.99",
+      "highPrice": "899.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "kk3255e8he",
+    "description": "Sofá New Ripley 2,05m Assento Retrátil e Reclinável Velosuede Cinza - NETSOFAS"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smart TV 4K LED 65” Samsung UN65RU7100",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smart-tv-4k-led-65-samsung-un65ru7100-wi-fi-bluetooth-hdr-3-hdmi-2-usb/magazineluiza/193425600/9d51812b46b172920b1b71197bb99670.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Samsung"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "3899",
+      "highPrice": "6499",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1934256",
+    "description": "Smart TV 4K LED 65” Samsung UN65RU7100"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Cozinha Completa Compacta Madesa Emilly com Armário e Balcão",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/cozinha-completa-compacta-madesa-emilly-com-armario-e-balcao/madesa/g200707k/185d82f61c49aee06a26bc996113cf55.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Madesa"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "72"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "529.99",
+      "highPrice": "659.99",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "dda51edcjh",
+    "description": "Cozinha Completa Compacta Madesa Emilly com Armário e Balcão"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Chapinha/Prancha de Cabelo Taiff ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/chapinha-prancha-de-cabelo-taiff-elegance-red-ion-200c/magazineluiza/108490200/40b87fdc742e50326ab2bed51e0eaa9f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Taiff"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "ratingCount": "305"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "159.9",
+      "highPrice": "199.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1084902",
+    "description": "Chapinha/Prancha de Cabelo Taiff "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Rack com Painel para TV até 60 Polegadas Samba Espresso Móveis Cacau/Off White",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/rack-com-painel-para-tv-ate-60-polegadas-samba-espresso-moveis-cacau-off-white/madeiramadeira-openapi/283882/de17a62b04250f1c108b82bd50b66316.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Siena Móveis"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "5"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "388.78",
+      "highPrice": "544.29",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "6233833",
+    "description": "Rack com Painel para TV até 60 Polegadas Samba Espresso Móveis Cacau/Off White"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Toalha Umedecida MamyPoko Toque Suave",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/toalha-umedecida-mamypoko-toque-suave-200-unidades/magazineluiza/218800800/681f7257538d7ea89c39caad002d533d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Mamypoko"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "4"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "26.9",
+      "highPrice": "29.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2188008",
+    "description": "Toalha Umedecida MamyPoko Toque Suave"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Conjunto Sala de Jantar Mesa 4 Cadeiras Luísa Espresso Móveis Animalle Chocolate/Off White/Café",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/conjunto-sala-de-jantar-mesa-4-cadeiras-luisa-espresso-moveis-animalle-chocolate-off-white-cafe/madeiramadeira-openapi/533308/de93e841423befde14b3cd737aac949d.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Espresso Móveis"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "26"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "744.07",
+      "highPrice": "1189.86",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "gha1g361ga",
+    "description": "Conjunto Sala de Jantar Mesa 4 Cadeiras Luísa Espresso Móveis Animalle Chocolate/Off White/Café"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Jogo de Panelas Tramontina Antiaderente",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/jogo-de-panelas-tramontina-antiaderente-de-aluminio-vermelho-7-pecas-turim-20298-721/magazineluiza/220241700/eaafd456b4c19239c409b93c00f3b9e1.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Tramontina"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "410"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "139.9",
+      "highPrice": "219.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "2202417",
+    "description": "Jogo de Panelas Tramontina Antiaderente"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Livro - Harry Potter e a criança amaldiçoada - Parte um e dois",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/livro-harry-potter-e-a-crianca-amaldicoada-parte-um-e-dois/magazineluiza/223249500/f7ef697c398ac671e40435e020624191.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Rocco"
+    },
+    
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "13.9",
+      "highPrice": "64.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "hh3aabag54",
+    "description": "Livro - Harry Potter e a criança amaldiçoada - Parte um e dois"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Fogão 5 Bocas Electrolux Prata ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/fogao-5-bocas-electrolux-prata-acendimento-automatico-76lsu/magazineluiza/012209000/ab70396df8980ca641c4832458d6b654.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Electrolux"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4",
+        "ratingCount": "7"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "1016.1",
+      "highPrice": "1399",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0122090",
+    "description": "Fogão 5 Bocas Electrolux Prata "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Escrivaninha Lindóia 2 Gavetas",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/escrivaninha-lindoia-2-gavetas-politorno-1194/magazineluiza/089401600/43c6c0eae51039eb637008d99c35b52f.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Politorno"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.1",
+        "ratingCount": "44"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "174.9",
+      "highPrice": "299.9",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "0894016",
+    "description": "Escrivaninha Lindóia 2 Gavetas"
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Smartphone LG K8 Plus 16GB Platinum 4G Quad-Core ",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/smartphone-lg-k8-plus-16gb-platinum-4g-quad-core-1gb-ram-545-cam-8mp-cam-selfie-5mp/magazineluiza/155570900/d6f29fabc23aed1cd65bb3f47448b758.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "LG"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "5",
+        "ratingCount": "3"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "510.57",
+      "highPrice": "699",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1555709",
+    "description": "Smartphone LG K8 Plus 16GB Platinum 4G Quad-Core "
+  },{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "Bicicleta Infantil Aro 24 Caloi Ceci 21 Marchas",
+    "image": [
+      "https://a-static.mlcdn.com.br/210x210/bicicleta-infantil-aro-24-caloi-ceci-21-marchas-branca-com-cesta-freio-v-brake/magazineluiza/182334100/2b9c193e7dffb8b65c13fbc6ad65deb0.jpg"
+     ],
+    "brand": {
+      "@type": "Product",
+      "name": "Caloi"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.7",
+        "ratingCount": "29"
+      },
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": "541.41",
+      "highPrice": "1099",
+      "priceCurrency": "BRL",
+      "offerCount": "1"
+    },
+    "sku": "1823341",
+    "description": "Bicicleta Infantil Aro 24 Caloi Ceci 21 Marchas"
+  }
