@@ -1,12 +1,20 @@
-
 # script para limpar emails duplicados
 
-emails = []
-mailing = 'maillist.txt'
-file=open(mailing,'r', encoding='utf-8')
+import os
+
+# load mailing a ser limpo
+mailing = []
+file=open('maillist.txt','r', encoding='utf-8')
 string = file.read()
-emails = string.replace('\n', '').split(',')
+mailing = string.replace('\n', '').split(',')
 file.close()
+
+# delete file
+try:
+    os.remove("limpador.txt")
+except OSError:
+    pass
+
 
 # workflow
 # | a  ^ d | 1
@@ -35,23 +43,45 @@ file.close()
 #                  <-
 #
 
-
+# Adiciona dois indexes, um no começo do arquivo e outro no final do arquivo
+last_email = ''
 begin = 0
-string = ''
-while begin < len(emails)-1:
-	
-	end = len(emails)-1
+while begin < len(mailing)-1:
+	end = len(mailing)-1
 	while end >= 0:
 
-		if str(emails[begin]) != str(emails[end]):
-			if (str(emails[begin]) != str(emails[begin+1])):
-				item = str(emails[begin])
-				if item not in string:
-					string = str(item) + ","
-					with open('limpador.txt', 'a+', encoding='utf-8') as logfile:
-						print(string)
-						logfile.write(string)
+		# Verifica se ambas posicoes possuem emails diferentes
+		if str(mailing[begin]) != str(mailing[end]):
+
+			# Verifica se o ultimo email manipulado e' diferente do email na posicao atual
+			if last_email != str(mailing[begin]):
+
+				# Efetua escrita, e leitura no arquivo, para nao inserir duplicatas
+				# Abre o arquivo como escrita (apendar, se nao exite arquivo, cria) 
+				# e define escrita como verdadeira
+				writer = open("limpador.txt", "a+")
+				write = True
+
+				# Abre o arquivo como leitura, carrega a lista ja escrita em memoria, e fecha o arquivo
+				reader=open('limpador.txt','r', encoding='utf-8')
+				string = reader.read()
+				email_list_reader = string.split(',')
+				reader.close()
+
+				# Efetua busca no arquivo se o endereco de email ja foi escrito, 
+				# se sim, define escrita como falsa
+				for address_email in email_list_reader:
+					if str(address_email) == str(mailing[begin]):
+						write = False
+
+				# Se nao foi escrito, o escritor escreve este endereço 
+				# e fecha o arquivo aberto em modo escrita
+				if write == True:
+					writer.write(mailing[begin] + str(','))
+				writer.close()
+
+			# Atuali o ultimo email manipulado
+			last_email = str(mailing[begin])
 
 		end = end - 1
-
 	begin = begin + 1

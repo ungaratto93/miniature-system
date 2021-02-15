@@ -7,7 +7,8 @@ import time
 class VagasPoa(object):
 	""" Script para coletar emails do siste VagasPoa https://vagaspoa.com.br/ """
 
-	
+	string_w = ''
+
 	def __init__(self, arg=0):
 		super(VagasPoa, self).__init__()
 		self.arg = arg
@@ -22,9 +23,10 @@ class VagasPoa(object):
 
 	def saveEmail(self, string):
 		try:
-			print(string[0])
-			with open('maillist.txt', 'a', encoding='utf-8') as file:
-				file.write(str(string[0]) + "," + "\n")
+			if (str(string[0]) != str(string_w)):
+				with open('maillist.txt', 'a', encoding='utf-8') as file:
+					file.write(str(string[0]) + "," + "\n")
+				string_w = string[0]
 		except (RuntimeError, NameError, TypeError) as e:
 			print(e)
 
