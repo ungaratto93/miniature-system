@@ -15,7 +15,6 @@ try:
 except OSError:
     pass
 
-
 # workflow
 # | a  ^ d | 1
 # |    | c | 1
@@ -46,6 +45,8 @@ except OSError:
 # Adiciona dois indexes, um no começo do arquivo e outro no final do arquivo
 last_email = ''
 begin = 0
+print("O processo de limpeza começou.")
+print("O tamanho atual do mailing é %s ", len(mailing))
 while begin < len(mailing)-1:
 	end = len(mailing)-1
 	while end >= 0:
@@ -81,7 +82,10 @@ while begin < len(mailing)-1:
 				writer.close()
 
 			# Atuali o ultimo email manipulado
+			print("Foi limpo %s", begin)
 			last_email = str(mailing[begin])
 
 		end = end - 1
 	begin = begin + 1
+
+print("O processo de limpeza terminou.")
