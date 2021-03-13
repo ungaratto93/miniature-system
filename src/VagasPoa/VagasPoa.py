@@ -45,7 +45,7 @@ class VagasPoa(object):
 
 	def getPage(self):
 		try:
-			number = 561 #paginas ate 2510
+			number = 842 #paginas ate 2510
 			status_code = ''
 
 			url = 'https://vagaspoa.com.br/'
@@ -60,8 +60,6 @@ class VagasPoa(object):
 				self.getEmail(next_url)
 				number = number + 1
 			print("Fim")
-			print("Resetando indexador para 0")
-			number = 0
 		except (ConnectionError, ConnectionResetError) as e:
  			print('Connection aborted.')
  			print('Foi forçado o cancelamento de uma conexão existente pelo host remoto')
