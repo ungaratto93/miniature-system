@@ -7,12 +7,11 @@ import time
 class VagasPoa(object):
 	""" Script para coletar emails do siste VagasPoa https://vagaspoa.com.br/ """
 
-	string_w = ''
-
 	def __init__(self, arg=0):
 		super(VagasPoa, self).__init__()
 		self.arg = arg
-		
+		self.string_w = ''
+
 	def saveLog(self, url, page, status_code):
 		try:
 			print(url)
@@ -23,10 +22,11 @@ class VagasPoa(object):
 
 	def saveEmail(self, string):
 		try:
-			if (str(string[0]) != str(string_w)):
+			if (str(string[0]) != str(self.string_w)):
 				with open('maillist.txt', 'a', encoding='utf-8') as file:
 					file.write(str(string[0]) + "," + "\n")
-				string_w = string[0]
+				self.string_w = string[0]
+
 		except (RuntimeError, NameError, TypeError) as e:
 			print(e)
 
@@ -45,9 +45,9 @@ class VagasPoa(object):
 
 	def getPage(self):
 		try:
-			number = 1021 #paginas ate 2510
+			number = 561 #paginas ate 2510
 			status_code = ''
-			
+
 			url = 'https://vagaspoa.com.br/'
 			while number <= 2510:
 				next_url = ''
@@ -60,6 +60,8 @@ class VagasPoa(object):
 				self.getEmail(next_url)
 				number = number + 1
 			print("Fim")
+			print("Resetando indexador para 0")
+			number = 0
 		except (ConnectionError, ConnectionResetError) as e:
  			print('Connection aborted.')
  			print('Foi forçado o cancelamento de uma conexão existente pelo host remoto')
