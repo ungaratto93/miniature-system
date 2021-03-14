@@ -45,7 +45,7 @@ class VagasPoa(object):
 
 	def getPage(self):
 		try:
-			number = 842 #paginas ate 2510
+			number = 0 #paginas ate 2510
 			status_code = ''
 
 			url = 'https://vagaspoa.com.br/'

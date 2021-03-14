@@ -82,8 +82,9 @@ while begin < len(mailing)-1:
 				writer.close()
 
 			# Atuali o ultimo email manipulado
-			print("Foi limpo %s", begin)
+			# /r volta para o começo da linha
 			last_email = str(mailing[begin])
+			print("Processando " + str(begin) + " de " + str(len(mailing)), end="\r")
 
 		end = end - 1
 	begin = begin + 1
