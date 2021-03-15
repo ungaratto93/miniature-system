@@ -55,3 +55,5 @@ while begin < len(pre_domains)-1:
 
 
 pprint.pprint(domains)
+#sorted_domains = sorted(domains.items(), key=lambda item: item[1])
+#pprint.pprint(sorted_domains)
