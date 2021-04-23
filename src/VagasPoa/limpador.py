@@ -78,7 +78,7 @@ while begin < len(mailing)-1:
 				# Se nao foi escrito, o escritor escreve este endereço 
 				# e fecha o arquivo aberto em modo escrita
 				if write == True:
-					writer.write(mailing[begin] + str(','))
+					writer.write(mailing[begin] + str(',') + '\n')
 				writer.close()
 
 			# Atuali o ultimo email manipulado
