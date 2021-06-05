@@ -45,7 +45,7 @@ class VagasPoa(object):
 
 	def getPage(self):
 		try:
-			number = 0 #paginas ate 2510
+			number = 780 #paginas ate 2510
 			status_code = ''
 
 			url = 'https://vagaspoa.com.br/'
@@ -53,7 +53,7 @@ class VagasPoa(object):
 				next_url = ''
 				next_page = "page/" + str(number) + "/"
 				next_url = str(url) + str(next_page)
-				time.sleep(15)
+				time.sleep(3)
 				response = requests.get(next_url)
 				status_code = str(response.status_code)
 				self.saveLog(next_url, str(number), status_code)

@@ -5,7 +5,7 @@ import pprint
 
 mailing = []
 file=open('limpador.txt','r', encoding='utf-8')
-mailing = file.read().split(',')
+mailing = file.read().replace('\n', '').split(',')
 file.close()
 
 def converter(match):
@@ -54,6 +54,7 @@ while begin < len(pre_domains)-1:
 	begin = begin + 1
 
 
-pprint.pprint(domains)
-#sorted_domains = sorted(domains.items(), key=lambda item: item[1])
-#pprint.pprint(sorted_domains)
+#pprint.pprint(domains)
+
+sorted_domains = sorted(domains.items(), key=lambda item: item[1])
+pprint.pprint(sorted_domains)
