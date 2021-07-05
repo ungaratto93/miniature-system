@@ -56,7 +56,6 @@ while begin < len(mailing)-1:
 
 			# Verifica se o ultimo email manipulado e' diferente do email na posicao atual
 			if last_email != str(mailing[begin]):
-
 				# Efetua escrita, e leitura no arquivo, para nao inserir duplicatas
 				# Abre o arquivo como escrita (apendar, se nao exite arquivo, cria) 
 				# e define escrita como verdadeira
@@ -66,13 +65,14 @@ while begin < len(mailing)-1:
 				# Abre o arquivo como leitura, carrega a lista ja escrita em memoria, e fecha o arquivo
 				reader=open('limpador.txt','r', encoding='utf-8')
 				string = reader.read()
-				email_list_reader = string.split(',')
+				email_list_reader = string.replace('\n', '').split(',')
 				reader.close()
 
 				# Efetua busca no arquivo se o endereco de email ja foi escrito, 
 				# se sim, define escrita como falsa
 				for address_email in email_list_reader:
 					if str(address_email) == str(mailing[begin]):
+						print('nao escreve')
 						write = False
 
 				# Se nao foi escrito, o escritor escreve este endereço 
@@ -84,7 +84,7 @@ while begin < len(mailing)-1:
 			# Atuali o ultimo email manipulado
 			# /r volta para o começo da linha
 			last_email = str(mailing[begin])
-			print("Processando " + str(begin) + " de " + str(len(mailing)), end="\r")
+			print("Processando " + str(begin) + " de " + str(len(mailing)) + str(' Ultimo email: ') + str(last_email), end="\r")
 
 		end = end - 1
 	begin = begin + 1
